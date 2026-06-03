@@ -1,12 +1,35 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2026 FIFA World Cup Calendar</title>
+<title>2026 FIFA World Cup — Calendar Subscription</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 42rem; margin: 3rem auto;
+         padding: 0 1rem; line-height: 1.5; }
+  .btn { display: inline-block; padding: .6rem 1.1rem; background: #1a7f37; color: #fff;
+          border-radius: .4rem; text-decoration: none; font-weight: 600; }
+  code { background: #f0f0f0; padding: .1rem .3rem; border-radius: .2rem; }
+  .files a { margin-right: 1rem; }
+</style>
 </head>
 <body>
-<h1>2026 FIFA World Cup — subscribeable calendar</h1>
-<p>Feed coming soon. ICS / CSV / JSON will be published here.</p>
+<h1>2026 FIFA World Cup Calendar</h1>
+<p>All 104 matches — kickoff, venue, teams (or bracket slot), and US TV — as a calendar
+   you can subscribe to. It updates automatically as fixtures and broadcasts are confirmed.</p>
+<p><a class="btn" href="webcal://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics">Subscribe (one click)</a></p>
+<p>Or add this URL manually in your calendar app:<br>
+   <code>https://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics</code></p>
+<h2>Other formats</h2>
+<p class="files">
+  <a href="world-cup-2026.ics">ICS</a>
+  <a href="world-cup-2026.csv">CSV</a>
+  <a href="world-cup-2026.json">JSON</a>
+</p>
+<h2>Sources &amp; licensing</h2>
+<p>Schedule, teams and kickoff times from
+   <a href="https://github.com/openfootball/worldcup.json">OpenFootball</a> (CC0); stadium
+   names and US broadcast info from publicly available sources. Match data is released under
+   <strong>CC0-1.0</strong>; the pipeline code under <strong>MIT</strong>.</p>
 </body>
 </html>
