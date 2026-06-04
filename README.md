@@ -37,7 +37,8 @@ refreshes on its own.
 
 - **Schedule, teams, kickoff times** — [OpenFootball](https://github.com/openfootball/worldcup.json)
   (CC0), pinned to a specific commit for reproducible builds.
-- **Stadium proper names and US TV** (English/Spanish) — publicly available sources, joined to the schedule by
+- **Stadium proper names and US TV** (English/Spanish) — compiled from publicly available
+  sources such as broadcaster announcements and public listings, joined to the schedule by
   date + city (never by team name).
 
 Each match carries an immutable slot identity (FIFA match number 1–104); knockout slots are

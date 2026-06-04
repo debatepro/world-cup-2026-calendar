@@ -6,31 +6,31 @@ METHOD:PUBLISH
 X-WR-CALNAME:2026 FIFA World Cup
 X-WR-CALDESC:2026 FIFA World Cup — all 104 matches: kickoff times\, venue
  s\, teams or bracket slots\, and US TV. Sources: OpenFootball worldcup.jso
- n@a40c239 (2026-06-11)\; Publicly available broadcaster listings\; OpenFootball world
- cup.json@a40c239 (2026-06-18)\; OpenFootball worldcup.json@a40c239 (2026-0
- 6-24)\; OpenFootball worldcup.json@a40c239 (2026-06-12)\; OpenFootball wor
- ldcup.json@a40c239 (2026-06-13)\; OpenFootball worldcup.json@a40c239 (2026
- -06-19)\; OpenFootball worldcup.json@a40c239 (2026-06-25)\; OpenFootball w
- orldcup.json@a40c239 (2026-06-14)\; OpenFootball worldcup.json@a40c239 (20
- 26-06-20)\; OpenFootball worldcup.json@a40c239 (2026-06-15)\; OpenFootball
-  worldcup.json@a40c239 (2026-06-21)\; OpenFootball worldcup.json@a40c239 (
- 2026-06-26)\; OpenFootball worldcup.json@a40c239 (2026-06-16)\; OpenFootba
- ll worldcup.json@a40c239 (2026-06-22)\; OpenFootball worldcup.json@a40c239
-  (2026-06-27)\; OpenFootball worldcup.json@a40c239 (2026-06-17)\; OpenFoot
- ball worldcup.json@a40c239 (2026-06-23)\; OpenFootball worldcup.json@a40c2
- 39 (2026-06-28)\; OpenFootball worldcup.json@a40c239 (2026-06-29)\; OpenFo
- otball worldcup.json@a40c239 (2026-06-30)\; OpenFootball worldcup.json@a40
- c239 (2026-07-01)\; OpenFootball worldcup.json@a40c239 (2026-07-02)\; Open
- Football worldcup.json@a40c239 (2026-07-03)\; OpenFootball worldcup.json@a
- 40c239 (2026-07-04)\; OpenFootball worldcup.json@a40c239 (2026-07-05)\; Op
- enFootball worldcup.json@a40c239 (2026-07-06)\; OpenFootball worldcup.json
- @a40c239 (2026-07-07)\; OpenFootball worldcup.json@a40c239 (2026-07-09)\; 
- OpenFootball worldcup.json@a40c239 (2026-07-10)\; OpenFootball worldcup.js
- on@a40c239 (2026-07-11)\; OpenFootball worldcup.json@a40c239 (2026-07-14)\
- ; OpenFootball worldcup.json@a40c239 (2026-07-15)\; OpenFootball worldcup.
- json@a40c239 (2026-07-18)\; OpenFootball worldcup.json@a40c239 (2026-07-19
- ). Match data CC0-1.0\; pipeline code MIT. Independent fan project — not
-  affiliated with\, endorsed by\, or sponsored by FIFA.
+ n@a40c239 (2026-06-11)\; Publicly available broadcaster listings\; OpenFoo
+ tball worldcup.json@a40c239 (2026-06-18)\; OpenFootball worldcup.json@a40c
+ 239 (2026-06-24)\; OpenFootball worldcup.json@a40c239 (2026-06-12)\; OpenF
+ ootball worldcup.json@a40c239 (2026-06-13)\; OpenFootball worldcup.json@a4
+ 0c239 (2026-06-19)\; OpenFootball worldcup.json@a40c239 (2026-06-25)\; Ope
+ nFootball worldcup.json@a40c239 (2026-06-14)\; OpenFootball worldcup.json@
+ a40c239 (2026-06-20)\; OpenFootball worldcup.json@a40c239 (2026-06-15)\; O
+ penFootball worldcup.json@a40c239 (2026-06-21)\; OpenFootball worldcup.jso
+ n@a40c239 (2026-06-26)\; OpenFootball worldcup.json@a40c239 (2026-06-16)\;
+  OpenFootball worldcup.json@a40c239 (2026-06-22)\; OpenFootball worldcup.j
+ son@a40c239 (2026-06-27)\; OpenFootball worldcup.json@a40c239 (2026-06-17)
+ \; OpenFootball worldcup.json@a40c239 (2026-06-23)\; OpenFootball worldcup
+ .json@a40c239 (2026-06-28)\; OpenFootball worldcup.json@a40c239 (2026-06-2
+ 9)\; OpenFootball worldcup.json@a40c239 (2026-06-30)\; OpenFootball worldc
+ up.json@a40c239 (2026-07-01)\; OpenFootball worldcup.json@a40c239 (2026-07
+ -02)\; OpenFootball worldcup.json@a40c239 (2026-07-03)\; OpenFootball worl
+ dcup.json@a40c239 (2026-07-04)\; OpenFootball worldcup.json@a40c239 (2026-
+ 07-05)\; OpenFootball worldcup.json@a40c239 (2026-07-06)\; OpenFootball wo
+ rldcup.json@a40c239 (2026-07-07)\; OpenFootball worldcup.json@a40c239 (202
+ 6-07-09)\; OpenFootball worldcup.json@a40c239 (2026-07-10)\; OpenFootball 
+ worldcup.json@a40c239 (2026-07-11)\; OpenFootball worldcup.json@a40c239 (2
+ 026-07-14)\; OpenFootball worldcup.json@a40c239 (2026-07-15)\; OpenFootbal
+ l worldcup.json@a40c239 (2026-07-18)\; OpenFootball worldcup.json@a40c239 
+ (2026-07-19). Match data CC0-1.0\; pipeline code MIT. Independent fan proj
+ ect — not affiliated with\, endorsed by\, or sponsored by FIFA.
 BEGIN:VEVENT
 UID:wc2026-match-1
 DTSTAMP:20260603T025129Z
