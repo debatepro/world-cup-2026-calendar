@@ -1,35 +1,407 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>2026 FIFA World Cup — Calendar Subscription</title>
-<style>
-  body { font-family: system-ui, sans-serif; max-width: 42rem; margin: 3rem auto;
-         padding: 0 1rem; line-height: 1.5; }
-  .btn { display: inline-block; padding: .6rem 1.1rem; background: #1a7f37; color: #fff;
-          border-radius: .4rem; text-decoration: none; font-weight: 600; }
-  code { background: #f0f0f0; padding: .1rem .3rem; border-radius: .2rem; }
-  .files a { margin-right: 1rem; }
-</style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 FIFA World Cup — Calendar Subscription</title>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Inter:wght@400;500&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --navy:  #283c55;
+      --blue:  #1d75bc;
+      --green: #60b154;
+      --white: #ffffff;
+      --light-bg: #f4f7fb;
+      --border: #dbe6f0;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--white);
+      color: var(--navy);
+      min-height: 100vh;
+    }
+
+    .header-wrap {
+      border-bottom: 3px solid var(--green);
+      background: var(--white);
+    }
+
+    header {
+      background: var(--white);
+      padding: 1.5rem 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    .brand-icon-wrap {
+      position: relative;
+      width: 56px;
+      height: 56px;
+      flex-shrink: 0;
+    }
+
+    .brand-icon {
+      position: absolute;
+      inset: 0;
+      background: var(--navy);
+      clip-path: polygon(50% 0%, 93% 25%, 93% 75%, 50% 100%, 7% 75%, 7% 25%);
+      z-index: 1;
+    }
+
+    .brand-icon::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      height: 35%;
+      background: var(--green);
+      opacity: 0.9;
+    }
+
+    .brand-icon::before {
+      content: '';
+      position: absolute;
+      left: 8%;
+      right: 8%;
+      bottom: 28%;
+      height: 24%;
+      background: var(--blue);
+      border-radius: 0 0 4px 4px;
+      z-index: 2;
+    }
+
+    .ball-overlay {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 1.55rem;
+      line-height: 1;
+      z-index: 5;
+      display: block;
+      pointer-events: none;
+      filter: drop-shadow(0 2px 3px rgba(0,0,0,0.28));
+    }
+
+    .brand-name {
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.7rem;
+      font-weight: 700;
+      color: var(--navy);
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      line-height: 0.95;
+    }
+
+    .brand-name span {
+      color: var(--blue);
+      font-weight: 400;
+      font-size: 0.95rem;
+      display: block;
+      letter-spacing: 0.12em;
+      margin-top: 0.2rem;
+      line-height: 1;
+    }
+
+    main {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 3rem 2rem 4rem;
+    }
+
+    h1 {
+      font-family: 'Oswald', sans-serif;
+      font-size: 3.2rem;
+      font-weight: 700;
+      color: var(--navy);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 0.35rem;
+      line-height: 1.02;
+    }
+
+    .subtitle {
+      color: var(--blue);
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.15rem;
+      font-weight: 400;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 1.5rem;
+      line-height: 1.1;
+    }
+
+    .divider {
+      height: 3px;
+      width: 60px;
+      background: var(--green);
+      border-radius: 2px;
+      margin-bottom: 1.5rem;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.7;
+      color: #3a5068;
+      margin-bottom: 1.5rem;
+    }
+
+    .disclaimer-inline {
+      font-size: 0.8rem;
+      color: #7a8a9a;
+      font-style: italic;
+      margin-top: -1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .btn-primary {
+      display: inline-block;
+      background: var(--navy);
+      color: var(--white);
+      font-family: 'Oswald', sans-serif;
+      font-size: 1rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      padding: 0.75rem 1.75rem;
+      border-radius: 4px;
+      text-decoration: none;
+      transition: background 0.2s, transform 0.1s;
+      margin-bottom: 2rem;
+      border-left: 4px solid var(--green);
+    }
+
+    .btn-primary:hover {
+      background: var(--blue);
+      transform: translateY(-1px);
+    }
+
+    .pitch {
+      background: var(--light-bg);
+      border-left: 4px solid var(--green);
+      border-radius: 6px;
+      padding: 0.9rem 1.25rem;
+      margin-bottom: 1.75rem;
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: #3a5068;
+    }
+
+    .pitch strong { color: var(--navy); }
+
+    .url-card {
+      background: var(--light-bg);
+      border: 1px solid var(--border);
+      border-left: 4px solid var(--blue);
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .formats-note {
+      font-size: 0.85rem;
+      line-height: 1.6;
+      color: #7a8a9a;
+      margin-top: -1.75rem;
+      margin-bottom: 2.5rem;
+    }
+
+    .url-card label {
+      display: block;
+      font-size: 0.75rem;
+      font-family: 'Oswald', sans-serif;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--blue);
+      margin-bottom: 0.4rem;
+    }
+
+    .url-card code {
+      font-family: 'Courier New', monospace;
+      font-size: 0.85rem;
+      color: var(--navy);
+      word-break: break-all;
+    }
+
+    h2 {
+      font-family: 'Oswald', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--navy);
+      margin-bottom: 0.75rem;
+      padding-bottom: 0.4rem;
+      border-bottom: 2px solid var(--border);
+    }
+
+    .format-links {
+      display: flex;
+      gap: 0.6rem;
+      flex-wrap: wrap;
+      margin-bottom: 2.5rem;
+    }
+
+    .format-links a {
+      display: inline-block;
+      padding: 0.4rem 1rem;
+      border-radius: 4px;
+      text-decoration: none;
+      font-family: 'Oswald', sans-serif;
+      font-size: 0.9rem;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .format-links a:nth-child(1) { background: var(--navy); color: var(--white); }
+    .format-links a:nth-child(2) { background: var(--blue); color: var(--white); }
+    .format-links a:nth-child(3) { background: var(--green); color: var(--white); }
+    .format-links a:hover { opacity: 0.85; }
+
+    .sources {
+      background: var(--light-bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 1rem 1.25rem;
+      font-size: 0.9rem;
+      line-height: 1.6;
+      color: #4a6070;
+    }
+
+    .sources a { color: var(--blue); text-decoration: none; }
+    .sources a:hover { text-decoration: underline; }
+    .sources strong { color: var(--navy); }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem 2rem;
+      font-size: 0.75rem;
+      color: #8a9aaa;
+      border-top: 1px solid var(--border);
+      line-height: 1.6;
+      max-width: 720px;
+      margin: 0 auto;
+    }
+
+    @media (max-width: 640px) {
+      header {
+        padding: 1.25rem 1rem;
+        gap: 0.85rem;
+      }
+
+      .brand-icon-wrap {
+        width: 48px;
+        height: 48px;
+      }
+
+      .ball-overlay {
+        font-size: 1.3rem;
+      }
+
+      .brand-name {
+        font-size: 1.25rem;
+      }
+
+      .brand-name span {
+        font-size: 0.78rem;
+      }
+
+      main {
+        padding: 2.25rem 1rem 3rem;
+      }
+
+      h1 {
+        font-size: 2.35rem;
+      }
+
+      .subtitle {
+        font-size: 0.98rem;
+      }
+    }
+  </style>
 </head>
 <body>
-<h1>2026 FIFA World Cup Calendar</h1>
-<p>All 104 matches — kickoff, venue, teams (or bracket slot), and US TV — as a calendar
-   you can subscribe to. It updates automatically as fixtures and broadcasts are confirmed.</p>
-<p><a class="btn" href="webcal://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics">Subscribe (one click)</a></p>
-<p>Or add this URL manually in your calendar app:<br>
-   <code>https://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics</code></p>
-<h2>Other formats</h2>
-<p class="files">
-  <a href="world-cup-2026.ics">ICS</a>
-  <a href="world-cup-2026.csv">CSV</a>
-  <a href="world-cup-2026.json">JSON</a>
-</p>
-<h2>Sources &amp; licensing</h2>
-<p>Schedule, teams and kickoff times from
-   <a href="https://github.com/openfootball/worldcup.json">OpenFootball</a> (CC0); stadium
-   names and US broadcast info from publicly available sources. Match data is released under
-   <strong>CC0-1.0</strong>; the pipeline code under <strong>MIT</strong>.</p>
+  <div class="header-wrap">
+    <header>
+      <div class="brand-icon-wrap" aria-hidden="true">
+        <div class="brand-icon"></div>
+        <span class="ball-overlay">⚽</span>
+      </div>
+      <div>
+        <div class="brand-name">
+          2026 World Cup
+          <span>Community Calendar</span>
+        </div>
+      </div>
+    </header>
+  </div>
+
+  <main>
+    <h1>World Cup 2026</h1>
+    <div class="subtitle">Fan-Made Match Calendar Subscription</div>
+    <div class="divider"></div>
+
+    <p>
+      All 104 matches — kickoff times, venue, competing teams (or bracket slot), and US TV listings — as a subscribable calendar feed. Updates automatically as fixtures and broadcast details are confirmed.
+    </p>
+    <p class="disclaimer-inline">
+      This is an independent, fan-created project. Not affiliated with, endorsed by, or sponsored by FIFA or any official tournament organizer.
+    </p>
+
+    <p class="pitch">
+      Subscribe once and you're set for the whole tournament. As group play wraps and
+      teams <strong>earn their spot in the knockout rounds</strong>, each match fills itself
+      in — <strong>when</strong> it kicks off, <strong>where</strong>, and <strong>who</strong>
+      they're playing — right in the calendar you already use. No re-checking, no re-downloading.
+    </p>
+
+    <a class="btn-primary" href="webcal://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics">
+      ⚽ Subscribe — One Click
+    </a>
+
+    <div class="url-card">
+      <label>Or add manually in your calendar app</label>
+      <code>https://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics</code>
+    </div>
+
+    <h2>Other Formats</h2>
+    <div class="format-links">
+      <a href="world-cup-2026.ics">ICS</a>
+      <a href="world-cup-2026.csv">CSV</a>
+      <a href="world-cup-2026.json">JSON</a>
+    </div>
+    <p class="formats-note">
+      These files are kept up to date alongside the feed, but they're one-time downloads —
+      to get the latest schedule you'll need to re-download them. Only the subscription above
+      refreshes on its own.
+    </p>
+
+    <h2>Data &amp; Licensing</h2>
+    <div class="sources">
+      Match schedule data compiled from publicly available sources including
+      <a href="https://github.com/openfootball/worldcup.json">OpenFootball</a> (CC0 public domain)
+      and broadcaster announcements.
+      Match data released under
+      <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank" rel="noopener noreferrer"><strong>CC0-1.0</strong></a>;
+      pipeline code under
+      <a href="https://spdx.org/licenses/MIT.html" target="_blank" rel="noopener noreferrer"><strong>MIT</strong></a>.
+      Match data is factual information and this site is an independent fan project.
+    </div>
+  </main>
+
+  <footer>
+    This site is an independent fan project and is <strong>not affiliated with, endorsed by, or sponsored by FIFA</strong>,
+    the 2026 World Cup organizing committees, or any broadcast partner.
+    "World Cup" and related terms are trademarks of FIFA. Match schedules are factual data in the public domain.
+  </footer>
 </body>
 </html>

@@ -3,6 +3,34 @@ VERSION:2.0
 PRODID:-//debatepro//WC2026 Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+X-WR-CALNAME:2026 FIFA World Cup
+X-WR-CALDESC:2026 FIFA World Cup — all 104 matches: kickoff times\, venue
+ s\, teams or bracket slots\, and US TV. Sources: OpenFootball worldcup.jso
+ n@a40c239 (2026-06-11)\; Publicly available broadcaster listings\; OpenFootball world
+ cup.json@a40c239 (2026-06-18)\; OpenFootball worldcup.json@a40c239 (2026-0
+ 6-24)\; OpenFootball worldcup.json@a40c239 (2026-06-12)\; OpenFootball wor
+ ldcup.json@a40c239 (2026-06-13)\; OpenFootball worldcup.json@a40c239 (2026
+ -06-19)\; OpenFootball worldcup.json@a40c239 (2026-06-25)\; OpenFootball w
+ orldcup.json@a40c239 (2026-06-14)\; OpenFootball worldcup.json@a40c239 (20
+ 26-06-20)\; OpenFootball worldcup.json@a40c239 (2026-06-15)\; OpenFootball
+  worldcup.json@a40c239 (2026-06-21)\; OpenFootball worldcup.json@a40c239 (
+ 2026-06-26)\; OpenFootball worldcup.json@a40c239 (2026-06-16)\; OpenFootba
+ ll worldcup.json@a40c239 (2026-06-22)\; OpenFootball worldcup.json@a40c239
+  (2026-06-27)\; OpenFootball worldcup.json@a40c239 (2026-06-17)\; OpenFoot
+ ball worldcup.json@a40c239 (2026-06-23)\; OpenFootball worldcup.json@a40c2
+ 39 (2026-06-28)\; OpenFootball worldcup.json@a40c239 (2026-06-29)\; OpenFo
+ otball worldcup.json@a40c239 (2026-06-30)\; OpenFootball worldcup.json@a40
+ c239 (2026-07-01)\; OpenFootball worldcup.json@a40c239 (2026-07-02)\; Open
+ Football worldcup.json@a40c239 (2026-07-03)\; OpenFootball worldcup.json@a
+ 40c239 (2026-07-04)\; OpenFootball worldcup.json@a40c239 (2026-07-05)\; Op
+ enFootball worldcup.json@a40c239 (2026-07-06)\; OpenFootball worldcup.json
+ @a40c239 (2026-07-07)\; OpenFootball worldcup.json@a40c239 (2026-07-09)\; 
+ OpenFootball worldcup.json@a40c239 (2026-07-10)\; OpenFootball worldcup.js
+ on@a40c239 (2026-07-11)\; OpenFootball worldcup.json@a40c239 (2026-07-14)\
+ ; OpenFootball worldcup.json@a40c239 (2026-07-15)\; OpenFootball worldcup.
+ json@a40c239 (2026-07-18)\; OpenFootball worldcup.json@a40c239 (2026-07-19
+ ). Match data CC0-1.0\; pipeline code MIT. Independent fan project — not
+  affiliated with\, endorsed by\, or sponsored by FIFA.
 BEGIN:VEVENT
 UID:wc2026-match-1
 DTSTAMP:20260603T025129Z
@@ -12,9 +40,7 @@ SEQUENCE:0
 SUMMARY:Mexico vs South Africa
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio Banorte\, Mexico City\, Mexico\n
- TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup
- .json@a40c239 (2026-06-11)\; Publicly available broadcaster listings\; publicly available sources scoreboar
- d (fifa.world)
+ TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-2
@@ -25,9 +51,7 @@ SEQUENCE:0
 SUMMARY:South Korea vs Czech Republic
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio Akron\, Guadalajara\, Mexico\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-11)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-3
@@ -38,9 +62,7 @@ SEQUENCE:0
 SUMMARY:Czech Republic vs South Africa
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group A\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-18)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-4
@@ -51,9 +73,7 @@ SEQUENCE:0
 SUMMARY:Mexico vs South Korea
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio Akron\, Guadalajara\, Mexico\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-18)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-5
@@ -64,9 +84,7 @@ SEQUENCE:0
 SUMMARY:Czech Republic vs Mexico
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio Banorte\, Mexico City\, Mexico\n
- TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup
- .json@a40c239 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboar
- d (fifa.world)
+ TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-6
@@ -77,9 +95,7 @@ SEQUENCE:0
 SUMMARY:South Africa vs South Korea
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
- N): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json
- @a40c239 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fi
- fa.world)
+ N): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-7
@@ -90,9 +106,7 @@ SEQUENCE:0
 SUMMARY:Canada vs Bosnia & Herzegovina
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group B\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- OX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c
- 239 (2026-06-12)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wo
- rld)
+ OX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-8
@@ -103,9 +117,7 @@ SEQUENCE:0
 SUMMARY:Qatar vs Switzerland
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group B\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-13)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-9
@@ -116,9 +128,7 @@ SEQUENCE:0
 SUMMARY:Switzerland vs Bosnia & Herzegovina
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Group B\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-18)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-10
@@ -129,9 +139,7 @@ SEQUENCE:0
 SUMMARY:Canada vs Qatar
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group B\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40
- c239 (2026-06-18)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.w
- orld)
+ FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-11
@@ -142,9 +150,7 @@ SEQUENCE:0
 SUMMARY:Switzerland vs Canada
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group B\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40
- c239 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.w
- orld)
+ FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-12
@@ -155,9 +161,7 @@ SEQUENCE:0
 SUMMARY:Bosnia & Herzegovina vs Qatar
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Group B\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FS
- 1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ 1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-13
@@ -168,9 +172,7 @@ SEQUENCE:0
 SUMMARY:Brazil vs Morocco
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group C\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-13)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-14
@@ -181,9 +183,7 @@ SEQUENCE:0
 SUMMARY:Haiti vs Scotland
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Group C\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
- : FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-13)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-15
@@ -194,9 +194,7 @@ SEQUENCE:0
 SUMMARY:Scotland vs Morocco
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Group C\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-19)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-16
@@ -207,9 +205,7 @@ SEQUENCE:0
 SUMMARY:Brazil vs Haiti
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group C\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball wo
- rldcup.json@a40c239 (2026-06-19)\; Publicly available broadcaster listings\; publicly available sources sco
- reboard (fifa.world)
+  USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-17
@@ -220,9 +216,7 @@ SEQUENCE:0
 SUMMARY:Scotland vs Brazil
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Group C\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-18
@@ -233,9 +227,7 @@ SEQUENCE:0
 SUMMARY:Morocco vs Haiti
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group C\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-24)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-19
@@ -246,9 +238,7 @@ SEQUENCE:0
 SUMMARY:USA vs Paraguay
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Group D\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-12)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-20
@@ -259,9 +249,7 @@ SEQUENCE:0
 SUMMARY:Australia vs Turkey
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group D\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40
- c239 (2026-06-13)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.w
- orld)
+ FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-21
@@ -272,9 +260,7 @@ SEQUENCE:0
 SUMMARY:USA vs Australia
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Group D\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-19)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-22
@@ -285,9 +271,7 @@ SEQUENCE:0
 SUMMARY:Turkey vs Paraguay
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group D\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-19)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-23
@@ -298,9 +282,7 @@ SEQUENCE:0
 SUMMARY:Turkey vs USA
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Group D\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-25)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-24
@@ -311,9 +293,7 @@ SEQUENCE:0
 SUMMARY:Paraguay vs Australia
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group D\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-25)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-25
@@ -324,9 +304,7 @@ SEQUENCE:0
 SUMMARY:Germany vs Curaçao
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group E\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-14)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-26
@@ -337,9 +315,7 @@ SEQUENCE:0
 SUMMARY:Ivory Coast vs Ecuador
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group E\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball wo
- rldcup.json@a40c239 (2026-06-14)\; Publicly available broadcaster listings\; publicly available sources sco
- reboard (fifa.world)
+  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-27
@@ -350,9 +326,7 @@ SEQUENCE:0
 SUMMARY:Germany vs Ivory Coast
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group E\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- OX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c
- 239 (2026-06-20)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wo
- rld)
+ OX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-28
@@ -363,9 +337,8 @@ SEQUENCE:0
 SUMMARY:Ecuador vs Curaçao
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group E\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFoot
- ball worldcup.json@a40c239 (2026-06-20)\; Publicly available broadcaster listings\; E
- SPN scoreboard (fifa.world)
+  City\, USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-0
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-29
@@ -376,9 +349,7 @@ SEQUENCE:0
 SUMMARY:Curaçao vs Ivory Coast
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group E\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball wo
- rldcup.json@a40c239 (2026-06-25)\; Publicly available broadcaster listings\; publicly available sources sco
- reboard (fifa.world)
+  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-30
@@ -389,9 +360,7 @@ SEQUENCE:0
 SUMMARY:Ecuador vs Germany
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group E\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-25)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-31
@@ -402,9 +371,7 @@ SEQUENCE:0
 SUMMARY:Netherlands vs Japan
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group F\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-14)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-32
@@ -415,9 +382,7 @@ SEQUENCE:0
 SUMMARY:Sweden vs Tunisia
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Group F\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
- N): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json
- @a40c239 (2026-06-14)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fi
- fa.world)
+ N): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-33
@@ -428,9 +393,7 @@ SEQUENCE:0
 SUMMARY:Netherlands vs Sweden
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group F\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-20)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-34
@@ -441,9 +404,7 @@ SEQUENCE:0
 SUMMARY:Tunisia vs Japan
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Group F\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
- N): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json
- @a40c239 (2026-06-20)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fi
- fa.world)
+ N): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-35
@@ -454,9 +415,7 @@ SEQUENCE:0
 SUMMARY:Japan vs Sweden
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group F\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FS
- 1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-25)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ 1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-36
@@ -467,9 +426,8 @@ SEQUENCE:0
 SUMMARY:Tunisia vs Netherlands
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group F\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFoot
- ball worldcup.json@a40c239 (2026-06-25)\; Publicly available broadcaster listings\; E
- SPN scoreboard (fifa.world)
+  City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-0
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-37
@@ -480,9 +438,7 @@ SEQUENCE:0
 SUMMARY:Belgium vs Egypt
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Group G\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-15)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-38
@@ -493,9 +449,7 @@ SEQUENCE:0
 SUMMARY:Iran vs New Zealand
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Group G\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
- ): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-15)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-39
@@ -506,9 +460,7 @@ SEQUENCE:0
 SUMMARY:Belgium vs Iran
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Group G\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
- ): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-21)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-40
@@ -519,9 +471,7 @@ SEQUENCE:0
 SUMMARY:New Zealand vs Egypt
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group G\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40
- c239 (2026-06-21)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.w
- orld)
+ FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-41
@@ -532,9 +482,7 @@ SEQUENCE:0
 SUMMARY:Egypt vs Iran
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Group G\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FS
- 1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ 1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-42
@@ -545,9 +493,7 @@ SEQUENCE:0
 SUMMARY:New Zealand vs Belgium
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group G\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40
- c239 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.w
- orld)
+ FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-43
@@ -558,9 +504,7 @@ SEQUENCE:0
 SUMMARY:Spain vs Cape Verde
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group H\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-15)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-44
@@ -571,9 +515,7 @@ SEQUENCE:0
 SUMMARY:Saudi Arabia vs Uruguay
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Group H\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
- : FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-15)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-45
@@ -584,9 +526,7 @@ SEQUENCE:0
 SUMMARY:Spain vs Saudi Arabia
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group H\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-21)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-46
@@ -597,9 +537,7 @@ SEQUENCE:0
 SUMMARY:Uruguay vs Cape Verde
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Group H\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
- : FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-21)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-47
@@ -610,9 +548,7 @@ SEQUENCE:0
 SUMMARY:Cape Verde vs Saudi Arabia
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group H\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FS
- 1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ 1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-48
@@ -623,9 +559,7 @@ SEQUENCE:0
 SUMMARY:Uruguay vs Spain
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Stage: Group H\nVenue: Estadio Akron\, Guadalajara\, Mexico\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-49
@@ -636,9 +570,7 @@ SEQUENCE:0
 SUMMARY:France vs Senegal
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group I\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-16)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-50
@@ -649,9 +581,7 @@ SEQUENCE:0
 SUMMARY:Iraq vs Norway
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Group I\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-16)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-51
@@ -662,9 +592,7 @@ SEQUENCE:0
 SUMMARY:France vs Iraq
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group I\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball wo
- rldcup.json@a40c239 (2026-06-22)\; Publicly available broadcaster listings\; publicly available sources sco
- reboard (fifa.world)
+  USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-52
@@ -675,9 +603,7 @@ SEQUENCE:0
 SUMMARY:Norway vs Senegal
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group I\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-22)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-53
@@ -688,9 +614,7 @@ SEQUENCE:0
 SUMMARY:Norway vs France
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Group I\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-54
@@ -701,9 +625,7 @@ SEQUENCE:0
 SUMMARY:Senegal vs Iraq
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group I\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- S1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c
- 239 (2026-06-26)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wo
- rld)
+ S1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-55
@@ -714,9 +636,8 @@ SEQUENCE:0
 SUMMARY:Argentina vs Algeria
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group J\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFoot
- ball worldcup.json@a40c239 (2026-06-16)\; Publicly available broadcaster listings\; E
- SPN scoreboard (fifa.world)
+  City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-0
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-56
@@ -727,9 +648,7 @@ SEQUENCE:0
 SUMMARY:Austria vs Jordan
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group J\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-16)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-57
@@ -740,9 +659,7 @@ SEQUENCE:0
 SUMMARY:Argentina vs Austria
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group J\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-22)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-58
@@ -753,9 +670,7 @@ SEQUENCE:0
 SUMMARY:Jordan vs Algeria
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group J\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-22)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59
@@ -766,9 +681,8 @@ SEQUENCE:0
 SUMMARY:Algeria vs Austria
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group J\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFoot
- ball worldcup.json@a40c239 (2026-06-27)\; Publicly available broadcaster listings\; E
- SPN scoreboard (fifa.world)
+  City\, USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-0
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-60
@@ -779,9 +693,7 @@ SEQUENCE:0
 SUMMARY:Jordan vs Argentina
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group J\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-27)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-61
@@ -792,9 +704,7 @@ SEQUENCE:0
 SUMMARY:Portugal vs DR Congo
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group K\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-17)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-62
@@ -805,9 +715,7 @@ SEQUENCE:0
 SUMMARY:Uzbekistan vs Colombia
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Group K\nVenue: Estadio Banorte\, Mexico City\, Mexico\n
- TV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup
- .json@a40c239 (2026-06-17)\; Publicly available broadcaster listings\; publicly available sources scoreboar
- d (fifa.world)
+ TV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-63
@@ -818,9 +726,7 @@ SEQUENCE:0
 SUMMARY:Portugal vs Uzbekistan
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group K\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-23)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-64
@@ -831,9 +737,7 @@ SEQUENCE:0
 SUMMARY:Colombia vs DR Congo
 LOCATION:Estadio Akron\, Guadalajara\, Mexico
 DESCRIPTION:Stage: Group K\nVenue: Estadio Akron\, Guadalajara\, Mexico\nTV
-  (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-23)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-65
@@ -844,9 +748,7 @@ SEQUENCE:0
 SUMMARY:Colombia vs Portugal
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Group K\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-27)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-66
@@ -857,9 +759,7 @@ SEQUENCE:0
 SUMMARY:DR Congo vs Uzbekistan
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group K\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-27)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67
@@ -870,9 +770,7 @@ SEQUENCE:0
 SUMMARY:England vs Croatia
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group L\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FO
- X\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c2
- 39 (2026-06-17)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wor
- ld)
+ X\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-68
@@ -883,9 +781,7 @@ SEQUENCE:0
 SUMMARY:Ghana vs Panama
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group L\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- S1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c
- 239 (2026-06-17)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wo
- rld)
+ S1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-69
@@ -896,9 +792,7 @@ SEQUENCE:0
 SUMMARY:England vs Ghana
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Group L\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-23)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-70
@@ -909,9 +803,7 @@ SEQUENCE:0
 SUMMARY:Panama vs Croatia
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group L\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- OX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a40c
- 239 (2026-06-23)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.wo
- rld)
+ OX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-71
@@ -922,9 +814,7 @@ SEQUENCE:0
 SUMMARY:Panama vs England
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group L\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-06-27)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-72
@@ -935,9 +825,7 @@ SEQUENCE:0
 SUMMARY:Croatia vs Ghana
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group L\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball wo
- rldcup.json@a40c239 (2026-06-27)\; Publicly available broadcaster listings\; publicly available sources sco
- reboard (fifa.world)
+  USA\nTV (EN): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73
@@ -948,9 +836,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Runner-up Group A vs Runner-up Group B
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-28)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74
@@ -961,9 +847,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group E vs 3rd place Group A/B/C/D/F
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Boston\, USA\nTV 
- (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.js
- on@a40c239 (2026-06-29)\; Publicly available broadcaster listings\; publicly available sources scoreboard (
- fifa.world)
+ (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75
@@ -974,9 +858,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group F vs Runner-up Group C
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Round of 32\nVenue: Estadio BBVA\, Monterrey\, Mexico\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-06-29)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-76
@@ -987,9 +869,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group C vs Runner-up Group F
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-29)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77
@@ -1000,9 +880,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group I vs 3rd place Group C/D/F/G/H
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: MetLife Stadium\, New York\, USA\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-06-30)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-78
@@ -1013,9 +891,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Runner-up Group E vs Runner-up Group I
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-06-30)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-79
@@ -1026,9 +902,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group A vs 3rd place Group C/E/F/H/I
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Round of 32\nVenue: Estadio Banorte\, Mexico City\, Mexi
- co\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worl
- dcup.json@a40c239 (2026-06-30)\; Publicly available broadcaster listings\; publicly available sources score
- board (fifa.world)
+ co\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80
@@ -1039,9 +913,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group L vs 3rd place Group E/H/I/J/K
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
- A\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball world
- cup.json@a40c239 (2026-07-01)\; Publicly available broadcaster listings\; publicly available sources scoreb
- oard (fifa.world)
+ A\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-81
@@ -1052,9 +924,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group D vs 3rd place Group B/E/F/I/J
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Levi's Stadium\, San Francisco\, USA
- \nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldc
- up.json@a40c239 (2026-07-01)\; Publicly available broadcaster listings\; publicly available sources scorebo
- ard (fifa.world)
+ \nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-82
@@ -1065,9 +935,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group G vs 3rd place Group A/E/H/I/J
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
- : FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-07-01)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83
@@ -1078,9 +946,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Runner-up Group K vs Runner-up Group L
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, Canada\nTV (EN
- ): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@
- a40c239 (2026-07-02)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fif
- a.world)
+ ): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-84
@@ -1091,9 +957,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group H vs Runner-up Group J
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-07-02)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-85
@@ -1104,9 +968,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group B vs 3rd place Group E/F/G/I/J
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BC Place\, Vancouver\, Canada\nTV (E
- N): FS1\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json
- @a40c239 (2026-07-02)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fi
- fa.world)
+ N): FS1\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86
@@ -1117,9 +979,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group J vs Runner-up Group H
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Hard Rock Stadium\, Miami\, USA\nTV 
- (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.js
- on@a40c239 (2026-07-03)\; Publicly available broadcaster listings\; publicly available sources scoreboard (
- fifa.world)
+ (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87
@@ -1130,9 +990,8 @@ SEQUENCE:0
 SUMMARY:Round of 32: Winner Group K vs 3rd place Group D/E/I/J/L
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
- nsas City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: Open
- Football worldcup.json@a40c239 (2026-07-03)\; Publicly available broadcaster listings
- \; Publicly available broadcaster listings
+ nsas City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-
+ 06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88
@@ -1143,9 +1002,7 @@ SEQUENCE:0
 SUMMARY:Round of 32: Runner-up Group D vs Runner-up Group G
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-07-03)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89
@@ -1156,9 +1013,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 74 vs Winner of Match 77
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: Lincoln Financial Field\, Philadelph
- ia\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootbal
- l worldcup.json@a40c239 (2026-07-04)\; Publicly available broadcaster listings\; publicly available sources
-  scoreboard (fifa.world)
+ ia\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90
@@ -1169,9 +1024,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 73 vs Winner of Match 75
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-07-04)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-91
@@ -1182,9 +1035,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 76 vs Winner of Match 78
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: MetLife Stadium\, New York\, USA\nTV
-  (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.j
- son@a40c239 (2026-07-05)\; Publicly available broadcaster listings\; publicly available sources scoreboard 
- (fifa.world)
+  (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92
@@ -1195,9 +1046,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 79 vs Winner of Match 80
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Round of 16\nVenue: Estadio Banorte\, Mexico City\, Mexi
- co\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worl
- dcup.json@a40c239 (2026-07-05)\; Publicly available broadcaster listings\; publicly available sources score
- board (fifa.world)
+ co\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93
@@ -1208,9 +1057,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 83 vs Winner of Match 84
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-07-06)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94
@@ -1221,9 +1068,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 81 vs Winner of Match 82
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
- : FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a
- 40c239 (2026-07-06)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa
- .world)
+ : FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95
@@ -1234,9 +1079,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 86 vs Winner of Match 88
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
- A\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball world
- cup.json@a40c239 (2026-07-07)\; Publicly available broadcaster listings\; publicly available sources scoreb
- oard (fifa.world)
+ A\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96
@@ -1247,9 +1090,7 @@ SEQUENCE:0
 SUMMARY:Round of 16: Winner of Match 85 vs Winner of Match 87
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Round of 16\nVenue: BC Place\, Vancouver\, Canada\nTV (E
- N): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json
- @a40c239 (2026-07-07)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fi
- fa.world)
+ N): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-97
@@ -1260,9 +1101,7 @@ SEQUENCE:0
 SUMMARY:Quarter-final: Winner of Match 89 vs Winner of Match 90
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: Gillette Stadium\, Boston\, USA\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-07-09)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-98
@@ -1273,9 +1112,7 @@ SEQUENCE:0
 SUMMARY:Quarter-final: Winner of Match 93 vs Winner of Match 94
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: SoFi Stadium\, Los Angeles\, USA\n
- TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup
- .json@a40c239 (2026-07-10)\; Publicly available broadcaster listings\; publicly available sources scoreboar
- d (fifa.world)
+ TV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99
@@ -1286,9 +1123,7 @@ SEQUENCE:0
 SUMMARY:Quarter-final: Winner of Match 91 vs Winner of Match 92
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: Hard Rock Stadium\, Miami\, USA\nT
- V (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.
- json@a40c239 (2026-07-11)\; Publicly available broadcaster listings\; publicly available sources scoreboard
-  (fifa.world)
+ V (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100
@@ -1299,9 +1134,8 @@ SEQUENCE:0
 SUMMARY:Quarter-final: Winner of Match 95 vs Winner of Match 96
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: GEHA Field at Arrowhead Stadium\, 
- Kansas City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: Op
- enFootball worldcup.json@a40c239 (2026-07-11)\; publicly available sources scoreboard (fifa.worl
- d)\; Publicly available broadcaster listings
+ Kansas City\, USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 202
+ 6-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101
@@ -1312,9 +1146,7 @@ SEQUENCE:0
 SUMMARY:Semi-final: Winner of Match 97 vs Winner of Match 98
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Semi-final\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN):
-  FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a4
- 0c239 (2026-07-14)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.
- world)
+  FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102
@@ -1325,9 +1157,7 @@ SEQUENCE:0
 SUMMARY:Semi-final: Winner of Match 99 vs Winner of Match 100
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Semi-final\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA
- \nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldc
- up.json@a40c239 (2026-07-15)\; Publicly available broadcaster listings\; publicly available sources scorebo
- ard (fifa.world)
+ \nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103
@@ -1338,9 +1168,7 @@ SEQUENCE:0
 SUMMARY:Match for third place: Loser of Match 101 vs Loser of Match 102
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Match for third place\nVenue: Hard Rock Stadium\, Miami\
- , USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball w
- orldcup.json@a40c239 (2026-07-18)\; Publicly available broadcaster listings\; publicly available sources sc
- oreboard (fifa.world)
+ , USA\nTV (EN): FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104
@@ -1351,8 +1179,6 @@ SEQUENCE:0
 SUMMARY:Final: Winner of Match 101 vs Winner of Match 102
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Final\nVenue: MetLife Stadium\, New York\, USA\nTV (EN):
-  FOX\, Peacock\nTV (ES): Telemundo\nSources: OpenFootball worldcup.json@a4
- 0c239 (2026-07-19)\; Publicly available broadcaster listings\; publicly available sources scoreboard (fifa.
- world)
+  FOX\, Peacock\nTV (ES): Telemundo\nUpdated 2026-06-03
 END:VEVENT
 END:VCALENDAR
