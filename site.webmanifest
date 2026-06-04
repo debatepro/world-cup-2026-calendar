@@ -1,0 +1,11 @@
+{
+  "name": "MatchCalendar 2026",
+  "short_name": "MatchCalendar",
+  "icons": [
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#283c55",
+  "background_color": "#ffffff",
+  "display": "browser"
+}
