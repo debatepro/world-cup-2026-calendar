@@ -168,6 +168,45 @@
       margin-bottom: 1.5rem;
     }
 
+    .gate {
+      background: #fff8e6;
+      border: 1px solid #f0e0b0;
+      border-left: 4px solid #e0a800;
+      border-radius: 6px;
+      padding: 0.85rem 1.1rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      gap: 0.6rem;
+      align-items: flex-start;
+      font-size: 0.9rem;
+      line-height: 1.5;
+      color: #5a4a20;
+    }
+
+    .gate input {
+      margin-top: 0.2rem;
+      flex-shrink: 0;
+      width: 1.05rem;
+      height: 1.05rem;
+      cursor: pointer;
+    }
+
+    .gate label { cursor: pointer; }
+    .gate strong { color: #4a3a10; }
+
+    .gated {
+      pointer-events: none;
+      opacity: 0.45;
+      filter: grayscale(0.6);
+      transition: opacity 0.15s, filter 0.15s;
+    }
+
+    body.ack .gated {
+      pointer-events: auto;
+      opacity: 1;
+      filter: none;
+    }
+
     .btn-primary {
       display: inline-block;
       background: var(--navy);
@@ -373,20 +412,29 @@
       No re-checking, no re-downloading.
     </p>
 
-    <a class="btn-primary" href="webcal://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics">
+    <div class="gate">
+      <input type="checkbox" id="ack" />
+      <label for="ack">
+        I understand this is an independent fan project, provided for
+        <strong>personal, fan, and entertainment use</strong> only, and that match
+        details are factual information compiled from publicly available sources.
+      </label>
+    </div>
+
+    <a class="btn-primary gated" href="webcal://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics">
       ⚽ Subscribe — One Click
     </a>
 
-    <div class="url-card">
+    <div class="url-card gated">
       <label>Or add manually in your calendar app</label>
       <code>https://debatepro.github.io/world-cup-2026-calendar/world-cup-2026.ics</code>
     </div>
 
     <h2>Other Formats</h2>
     <div class="format-links">
-      <a href="world-cup-2026.ics">ICS</a>
-      <a href="world-cup-2026.csv">CSV</a>
-      <a href="world-cup-2026.json">JSON</a>
+      <a class="gated" href="world-cup-2026.ics">ICS</a>
+      <a class="gated" href="world-cup-2026.csv">CSV</a>
+      <a class="gated" href="world-cup-2026.json">JSON</a>
     </div>
     <p class="formats-note">
       These files are kept up to date alongside the feed, but they're one-time downloads —
@@ -413,5 +461,15 @@
     "World Cup" and related marks are trademarks of FIFA, used here only to identify the tournament.
     Provided for <strong>fan and community use only</strong>.
   </footer>
+
+  <script>
+    var ack = document.getElementById('ack');
+    if (ack) {
+      ack.checked = false;                       // ignore browser autofill on reload
+      ack.addEventListener('change', function () {
+        document.body.classList.toggle('ack', ack.checked);
+      });
+    }
+  </script>
 </body>
 </html>
