@@ -296,13 +296,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FS1",
+        "FOX",
         "Peacock"
       ],
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 0,
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -319,13 +319,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FS1",
+        "FOX",
         "Peacock"
       ],
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 0,
+      "sequence": 1,
       "notes": ""
     },
     {

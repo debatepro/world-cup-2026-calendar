@@ -11,8 +11,8 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 10,Group B,2026-06-18T22:00:00+00:00,2026-06-18T15:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Canada,Qatar,FS1; Peacock,Telemundo,0
 11,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Switzerland,Canada,FOX; Peacock,Telemundo,0
 12,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Bosnia & Herzegovina,Qatar,FS1; Peacock,Telemundo,0
-13,Group C,2026-06-13T22:00:00+00:00,2026-06-13T18:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Brazil,Morocco,FS1; Peacock,Telemundo,0
-14,Group C,2026-06-14T01:00:00+00:00,2026-06-13T21:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Haiti,Scotland,FS1; Peacock,Telemundo,0
+13,Group C,2026-06-13T22:00:00+00:00,2026-06-13T18:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Brazil,Morocco,FOX; Peacock,Telemundo,1
+14,Group C,2026-06-14T01:00:00+00:00,2026-06-13T21:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Haiti,Scotland,FOX; Peacock,Telemundo,1
 15,Group C,2026-06-19T22:00:00+00:00,2026-06-19T18:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Scotland,Morocco,FOX; Peacock,Telemundo,0
 16,Group C,2026-06-20T00:30:00+00:00,2026-06-19T20:30:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Brazil,Haiti,FOX; Peacock,Telemundo,0
 17,Group C,2026-06-24T22:00:00+00:00,2026-06-24T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Scotland,Brazil,FOX; Peacock,Telemundo,0
