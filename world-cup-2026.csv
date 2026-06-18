@@ -1,105 +1,105 @@
 match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,us_english_tv,us_spanish_tv,sequence
 1,Group A,2026-06-11T19:00:00+00:00,2026-06-11T13:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Mexico,South Africa,FOX; Peacock,Telemundo,0
 2,Group A,2026-06-12T02:00:00+00:00,2026-06-11T20:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,South Korea,Czech Republic,FS1; Peacock,Telemundo,0
-3,Group A,2026-06-18T16:00:00+00:00,2026-06-18T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Czech Republic,South Africa,FOX; Peacock,Telemundo,0
-4,Group A,2026-06-19T01:00:00+00:00,2026-06-18T19:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Mexico,South Korea,FOX; Peacock,Telemundo,0
-5,Group A,2026-06-25T01:00:00+00:00,2026-06-24T19:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Czech Republic,Mexico,FOX; Peacock,Telemundo,0
-6,Group A,2026-06-25T01:00:00+00:00,2026-06-24T19:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,South Africa,South Korea,FS1; Peacock,Telemundo,0
+3,Group A,2026-06-18T16:00:00+00:00,2026-06-18T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Czech Republic,South Africa,FOX; FOX One,Telemundo,1
+4,Group A,2026-06-19T01:00:00+00:00,2026-06-18T19:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Mexico,South Korea,FOX; FOX One,Telemundo,1
+5,Group A,2026-06-25T01:00:00+00:00,2026-06-24T19:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Czech Republic,Mexico,FOX; FOX One,Telemundo,1
+6,Group A,2026-06-25T01:00:00+00:00,2026-06-24T19:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,South Africa,South Korea,FS1; FOX One,Telemundo,1
 7,Group B,2026-06-12T19:00:00+00:00,2026-06-12T15:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Canada,Bosnia & Herzegovina,FOX; Peacock,Telemundo,0
 8,Group B,2026-06-13T19:00:00+00:00,2026-06-13T12:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Qatar,Switzerland,FOX; Peacock,Telemundo,0
-9,Group B,2026-06-18T19:00:00+00:00,2026-06-18T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Switzerland,Bosnia & Herzegovina,FOX; Peacock,Telemundo,0
-10,Group B,2026-06-18T22:00:00+00:00,2026-06-18T15:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Canada,Qatar,FS1; Peacock,Telemundo,0
-11,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Switzerland,Canada,FOX; Peacock,Telemundo,0
-12,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Bosnia & Herzegovina,Qatar,FS1; Peacock,Telemundo,0
+9,Group B,2026-06-18T19:00:00+00:00,2026-06-18T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Switzerland,Bosnia & Herzegovina,FOX; FOX One,Telemundo,1
+10,Group B,2026-06-18T22:00:00+00:00,2026-06-18T15:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Canada,Qatar,FS1; FOX One,Telemundo,1
+11,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Switzerland,Canada,FOX; FOX One,Telemundo,1
+12,Group B,2026-06-24T19:00:00+00:00,2026-06-24T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Bosnia & Herzegovina,Qatar,FS1; FOX One,Telemundo,1
 13,Group C,2026-06-13T22:00:00+00:00,2026-06-13T18:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Brazil,Morocco,FOX; Peacock,Telemundo,1
 14,Group C,2026-06-14T01:00:00+00:00,2026-06-13T21:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Haiti,Scotland,FOX; Peacock,Telemundo,1
-15,Group C,2026-06-19T22:00:00+00:00,2026-06-19T18:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Scotland,Morocco,FOX; Peacock,Telemundo,0
-16,Group C,2026-06-20T00:30:00+00:00,2026-06-19T20:30:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Brazil,Haiti,FOX; Peacock,Telemundo,0
-17,Group C,2026-06-24T22:00:00+00:00,2026-06-24T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Scotland,Brazil,FOX; Peacock,Telemundo,0
-18,Group C,2026-06-24T22:00:00+00:00,2026-06-24T18:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Morocco,Haiti,FS1; Peacock,Telemundo,0
+15,Group C,2026-06-19T22:00:00+00:00,2026-06-19T18:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Scotland,Morocco,FOX; FOX One,Telemundo,1
+16,Group C,2026-06-20T00:30:00+00:00,2026-06-19T20:30:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Brazil,Haiti,FOX; FOX One,Telemundo,1
+17,Group C,2026-06-24T22:00:00+00:00,2026-06-24T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Scotland,Brazil,FOX; FOX One,Telemundo,1
+18,Group C,2026-06-24T22:00:00+00:00,2026-06-24T18:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Morocco,Haiti,FS1; FOX One,Telemundo,1
 19,Group D,2026-06-13T01:00:00+00:00,2026-06-12T18:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,USA,Paraguay,FOX; Peacock,Telemundo,0
 20,Group D,2026-06-14T04:00:00+00:00,2026-06-13T21:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Australia,Turkey,FS1; Peacock,Telemundo,0
-21,Group D,2026-06-19T19:00:00+00:00,2026-06-19T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,USA,Australia,FOX; Peacock,Telemundo,0
-22,Group D,2026-06-20T03:00:00+00:00,2026-06-19T20:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Turkey,Paraguay,FS1; Peacock,Telemundo,0
-23,Group D,2026-06-26T02:00:00+00:00,2026-06-25T19:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Turkey,USA,FOX; Peacock,Telemundo,0
-24,Group D,2026-06-26T02:00:00+00:00,2026-06-25T19:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Paraguay,Australia,FS1; Peacock,Telemundo,0
+21,Group D,2026-06-19T19:00:00+00:00,2026-06-19T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,USA,Australia,FOX; FOX One,Telemundo,1
+22,Group D,2026-06-20T03:00:00+00:00,2026-06-19T20:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Turkey,Paraguay,FS1; FOX One,Telemundo,1
+23,Group D,2026-06-26T02:00:00+00:00,2026-06-25T19:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Turkey,USA,FOX; FOX One,Telemundo,1
+24,Group D,2026-06-26T02:00:00+00:00,2026-06-25T19:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Paraguay,Australia,FS1; FOX One,Telemundo,1
 25,Group E,2026-06-14T17:00:00+00:00,2026-06-14T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Germany,Curaçao,FOX; Peacock,Telemundo,0
 26,Group E,2026-06-14T23:00:00+00:00,2026-06-14T19:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Ivory Coast,Ecuador,FS1; Peacock,Telemundo,0
-27,Group E,2026-06-20T20:00:00+00:00,2026-06-20T16:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Germany,Ivory Coast,FOX; Peacock,Telemundo,0
-28,Group E,2026-06-21T00:00:00+00:00,2026-06-20T19:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Ecuador,Curaçao,FS1; Peacock,Telemundo,0
-29,Group E,2026-06-25T20:00:00+00:00,2026-06-25T16:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Curaçao,Ivory Coast,FS1; Peacock,Telemundo,0
-30,Group E,2026-06-25T20:00:00+00:00,2026-06-25T16:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Ecuador,Germany,FOX; Peacock,Telemundo,0
+27,Group E,2026-06-20T20:00:00+00:00,2026-06-20T16:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Germany,Ivory Coast,FOX; FOX One,Telemundo,1
+28,Group E,2026-06-21T00:00:00+00:00,2026-06-20T19:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Ecuador,Curaçao,FS1; FOX One,Telemundo,1
+29,Group E,2026-06-25T20:00:00+00:00,2026-06-25T16:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Curaçao,Ivory Coast,FS1; FOX One,Telemundo,1
+30,Group E,2026-06-25T20:00:00+00:00,2026-06-25T16:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Ecuador,Germany,FOX; FOX One,Telemundo,1
 31,Group F,2026-06-14T20:00:00+00:00,2026-06-14T15:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Netherlands,Japan,FOX; Peacock,Telemundo,0
 32,Group F,2026-06-15T02:00:00+00:00,2026-06-14T20:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Sweden,Tunisia,FS1; Peacock,Telemundo,0
-33,Group F,2026-06-20T17:00:00+00:00,2026-06-20T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Netherlands,Sweden,FOX; Peacock,Telemundo,0
-34,Group F,2026-06-21T04:00:00+00:00,2026-06-20T22:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Tunisia,Japan,FS1; Peacock,Telemundo,0
-35,Group F,2026-06-25T23:00:00+00:00,2026-06-25T18:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Japan,Sweden,FS1; Peacock,Telemundo,0
-36,Group F,2026-06-25T23:00:00+00:00,2026-06-25T18:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Tunisia,Netherlands,FOX; Peacock,Telemundo,0
+33,Group F,2026-06-20T17:00:00+00:00,2026-06-20T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Netherlands,Sweden,FOX; FOX One,Telemundo,1
+34,Group F,2026-06-21T04:00:00+00:00,2026-06-20T22:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Tunisia,Japan,FS1; FOX One,Telemundo,1
+35,Group F,2026-06-25T23:00:00+00:00,2026-06-25T18:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Japan,Sweden,FS1; FOX One,Telemundo,1
+36,Group F,2026-06-25T23:00:00+00:00,2026-06-25T18:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Tunisia,Netherlands,FOX; FOX One,Telemundo,1
 37,Group G,2026-06-15T19:00:00+00:00,2026-06-15T12:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Belgium,Egypt,FOX; Peacock,Telemundo,0
 38,Group G,2026-06-16T01:00:00+00:00,2026-06-15T18:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Iran,New Zealand,FS1; Peacock,Telemundo,0
-39,Group G,2026-06-21T19:00:00+00:00,2026-06-21T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Belgium,Iran,FS1; Peacock,Telemundo,0
-40,Group G,2026-06-22T01:00:00+00:00,2026-06-21T18:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,New Zealand,Egypt,FS1; Peacock,Telemundo,0
-41,Group G,2026-06-27T03:00:00+00:00,2026-06-26T20:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Egypt,Iran,FS1; Peacock,Telemundo,0
-42,Group G,2026-06-27T03:00:00+00:00,2026-06-26T20:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,New Zealand,Belgium,FOX; Peacock,Telemundo,0
+39,Group G,2026-06-21T19:00:00+00:00,2026-06-21T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Belgium,Iran,FS1; FOX One,Telemundo,1
+40,Group G,2026-06-22T01:00:00+00:00,2026-06-21T18:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,New Zealand,Egypt,FS1; FOX One,Telemundo,1
+41,Group G,2026-06-27T03:00:00+00:00,2026-06-26T20:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Egypt,Iran,FS1; FOX One,Telemundo,1
+42,Group G,2026-06-27T03:00:00+00:00,2026-06-26T20:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,New Zealand,Belgium,FOX; FOX One,Telemundo,1
 43,Group H,2026-06-15T16:00:00+00:00,2026-06-15T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Spain,Cape Verde,FOX; Peacock,Telemundo,0
 44,Group H,2026-06-15T22:00:00+00:00,2026-06-15T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Saudi Arabia,Uruguay,FS1; Peacock,Telemundo,0
-45,Group H,2026-06-21T16:00:00+00:00,2026-06-21T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Spain,Saudi Arabia,FOX; Peacock,Telemundo,0
-46,Group H,2026-06-21T22:00:00+00:00,2026-06-21T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Uruguay,Cape Verde,FS1; Peacock,Telemundo,0
-47,Group H,2026-06-27T00:00:00+00:00,2026-06-26T19:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Cape Verde,Saudi Arabia,FS1; Peacock,Telemundo,0
-48,Group H,2026-06-27T00:00:00+00:00,2026-06-26T18:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Uruguay,Spain,FOX; Peacock,Telemundo,0
+45,Group H,2026-06-21T16:00:00+00:00,2026-06-21T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Spain,Saudi Arabia,FOX; FOX One,Telemundo,1
+46,Group H,2026-06-21T22:00:00+00:00,2026-06-21T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Uruguay,Cape Verde,FS1; FOX One,Telemundo,1
+47,Group H,2026-06-27T00:00:00+00:00,2026-06-26T19:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Cape Verde,Saudi Arabia,FS1; FOX One,Telemundo,1
+48,Group H,2026-06-27T00:00:00+00:00,2026-06-26T18:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Uruguay,Spain,FOX; FOX One,Telemundo,1
 49,Group I,2026-06-16T19:00:00+00:00,2026-06-16T15:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,France,Senegal,FOX; Peacock,Telemundo,0
 50,Group I,2026-06-16T22:00:00+00:00,2026-06-16T18:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Iraq,Norway,FOX; Peacock,Telemundo,0
-51,Group I,2026-06-22T21:00:00+00:00,2026-06-22T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,France,Iraq,FOX; Peacock,Telemundo,0
-52,Group I,2026-06-23T00:00:00+00:00,2026-06-22T20:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Norway,Senegal,FOX; Peacock,Telemundo,0
-53,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Norway,France,FOX; Peacock,Telemundo,0
-54,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Senegal,Iraq,FS1; Peacock,Telemundo,0
+51,Group I,2026-06-22T21:00:00+00:00,2026-06-22T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,France,Iraq,FOX; FOX One,Telemundo,1
+52,Group I,2026-06-23T00:00:00+00:00,2026-06-22T20:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Norway,Senegal,FOX; FOX One,Telemundo,1
+53,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Norway,France,FOX; FOX One,Telemundo,1
+54,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Senegal,Iraq,FS1; FOX One,Telemundo,1
 55,Group J,2026-06-17T01:00:00+00:00,2026-06-16T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Argentina,Algeria,FOX; Peacock,Telemundo,0
-56,Group J,2026-06-17T04:00:00+00:00,2026-06-16T21:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Austria,Jordan,FS1; Peacock,Telemundo,0
-57,Group J,2026-06-22T17:00:00+00:00,2026-06-22T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Argentina,Austria,FOX; Peacock,Telemundo,0
-58,Group J,2026-06-23T03:00:00+00:00,2026-06-22T20:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Jordan,Algeria,FS1; Peacock,Telemundo,0
-59,Group J,2026-06-28T02:00:00+00:00,2026-06-27T21:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Algeria,Austria,FS1; Peacock,Telemundo,0
-60,Group J,2026-06-28T02:00:00+00:00,2026-06-27T21:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Jordan,Argentina,FOX; Peacock,Telemundo,0
+56,Group J,2026-06-17T04:00:00+00:00,2026-06-16T21:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Austria,Jordan,FS1,Telemundo,1
+57,Group J,2026-06-22T17:00:00+00:00,2026-06-22T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Argentina,Austria,FOX; FOX One,Telemundo,1
+58,Group J,2026-06-23T03:00:00+00:00,2026-06-22T20:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Jordan,Algeria,FS1; FOX One,Telemundo,1
+59,Group J,2026-06-28T02:00:00+00:00,2026-06-27T21:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Algeria,Austria,FS1; FOX One,Telemundo,1
+60,Group J,2026-06-28T02:00:00+00:00,2026-06-27T21:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Jordan,Argentina,FOX; FOX One,Telemundo,1
 61,Group K,2026-06-17T17:00:00+00:00,2026-06-17T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Portugal,DR Congo,FOX; Peacock,Telemundo,0
-62,Group K,2026-06-18T02:00:00+00:00,2026-06-17T20:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Uzbekistan,Colombia,FS1; Peacock,Telemundo,0
-63,Group K,2026-06-23T17:00:00+00:00,2026-06-23T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Portugal,Uzbekistan,FOX; Peacock,Telemundo,0
-64,Group K,2026-06-24T02:00:00+00:00,2026-06-23T20:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Colombia,DR Congo,FS1; Peacock,Telemundo,0
-65,Group K,2026-06-27T23:30:00+00:00,2026-06-27T19:30:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Colombia,Portugal,FOX; Peacock,Telemundo,0
-66,Group K,2026-06-27T23:30:00+00:00,2026-06-27T19:30:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,DR Congo,Uzbekistan,FS1; Peacock,Telemundo,0
+62,Group K,2026-06-18T02:00:00+00:00,2026-06-17T20:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Uzbekistan,Colombia,FS1; FOX One,Telemundo,1
+63,Group K,2026-06-23T17:00:00+00:00,2026-06-23T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Portugal,Uzbekistan,FOX; FOX One,Telemundo,1
+64,Group K,2026-06-24T02:00:00+00:00,2026-06-23T20:00:00-06:00,America/Mexico_City,Estadio Akron,Guadalajara,Mexico,Colombia,DR Congo,FS1; FOX One,Telemundo,1
+65,Group K,2026-06-27T23:30:00+00:00,2026-06-27T19:30:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Colombia,Portugal,FOX; FOX One,Telemundo,1
+66,Group K,2026-06-27T23:30:00+00:00,2026-06-27T19:30:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,DR Congo,Uzbekistan,FS1; FOX One,Telemundo,1
 67,Group L,2026-06-17T20:00:00+00:00,2026-06-17T15:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,England,Croatia,FOX; Peacock,Telemundo,0
-68,Group L,2026-06-17T23:00:00+00:00,2026-06-17T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Ghana,Panama,FS1; Peacock,Telemundo,0
-69,Group L,2026-06-23T20:00:00+00:00,2026-06-23T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,England,Ghana,FOX; Peacock,Telemundo,0
-70,Group L,2026-06-23T23:00:00+00:00,2026-06-23T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Panama,Croatia,FOX; Peacock,Telemundo,0
-71,Group L,2026-06-27T21:00:00+00:00,2026-06-27T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Panama,England,FOX; Peacock,Telemundo,0
-72,Group L,2026-06-27T21:00:00+00:00,2026-06-27T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Croatia,Ghana,FS1; Peacock,Telemundo,0
-73,Round of 32,2026-06-28T19:00:00+00:00,2026-06-28T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Runner-up Group A,Runner-up Group B,FOX; Peacock,Telemundo,0
-74,Round of 32,2026-06-29T20:30:00+00:00,2026-06-29T16:30:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Winner Group E,3rd place Group A/B/C/D/F,FOX; Peacock,Telemundo,0
-75,Round of 32,2026-06-30T01:00:00+00:00,2026-06-29T19:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Winner Group F,Runner-up Group C,FOX; Peacock,Telemundo,0
-76,Round of 32,2026-06-29T17:00:00+00:00,2026-06-29T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Winner Group C,Runner-up Group F,FOX; Peacock,Telemundo,0
-77,Round of 32,2026-06-30T21:00:00+00:00,2026-06-30T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner Group I,3rd place Group C/D/F/G/H,FOX; Peacock,Telemundo,0
-78,Round of 32,2026-06-30T17:00:00+00:00,2026-06-30T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Runner-up Group E,Runner-up Group I,FOX; Peacock,Telemundo,0
-79,Round of 32,2026-07-01T01:00:00+00:00,2026-06-30T19:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Winner Group A,3rd place Group C/E/F/H/I,FOX; Peacock,Telemundo,0
-80,Round of 32,2026-07-01T16:00:00+00:00,2026-07-01T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner Group L,3rd place Group E/H/I/J/K,FOX; Peacock,Telemundo,0
-81,Round of 32,2026-07-02T00:00:00+00:00,2026-07-01T17:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Winner Group D,3rd place Group B/E/F/I/J,FOX; Peacock,Telemundo,0
-82,Round of 32,2026-07-01T20:00:00+00:00,2026-07-01T13:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Winner Group G,3rd place Group A/E/H/I/J,FS1; Peacock,Telemundo,0
-83,Round of 32,2026-07-02T23:00:00+00:00,2026-07-02T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Runner-up Group K,Runner-up Group L,FOX; Peacock,Telemundo,0
-84,Round of 32,2026-07-02T19:00:00+00:00,2026-07-02T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner Group H,Runner-up Group J,FOX; Peacock,Telemundo,0
-85,Round of 32,2026-07-03T03:00:00+00:00,2026-07-02T20:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Winner Group B,3rd place Group E/F/G/I/J,FS1; Peacock,Telemundo,0
-86,Round of 32,2026-07-03T22:00:00+00:00,2026-07-03T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Winner Group J,Runner-up Group H,FOX; Peacock,Telemundo,0
-87,Round of 32,2026-07-04T01:30:00+00:00,2026-07-03T20:30:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner Group K,3rd place Group D/E/I/J/L,FOX; Peacock,Telemundo,0
-88,Round of 32,2026-07-03T18:00:00+00:00,2026-07-03T13:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Runner-up Group D,Runner-up Group G,FOX; Peacock,Telemundo,0
-89,Round of 16,2026-07-04T21:00:00+00:00,2026-07-04T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Winner of Match 74,Winner of Match 77,FOX; Peacock,Telemundo,0
-90,Round of 16,2026-07-04T17:00:00+00:00,2026-07-04T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Winner of Match 73,Winner of Match 75,FOX; Peacock,Telemundo,0
-91,Round of 16,2026-07-05T20:00:00+00:00,2026-07-05T16:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner of Match 76,Winner of Match 78,FOX; Peacock,Telemundo,0
-92,Round of 16,2026-07-06T00:00:00+00:00,2026-07-05T18:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Winner of Match 79,Winner of Match 80,FOX; Peacock,Telemundo,0
-93,Round of 16,2026-07-06T19:00:00+00:00,2026-07-06T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 83,Winner of Match 84,FOX; Peacock,Telemundo,0
-94,Round of 16,2026-07-07T00:00:00+00:00,2026-07-06T17:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Winner of Match 81,Winner of Match 82,FOX; Peacock,Telemundo,0
-95,Round of 16,2026-07-07T16:00:00+00:00,2026-07-07T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 86,Winner of Match 88,FOX; Peacock,Telemundo,0
-96,Round of 16,2026-07-07T20:00:00+00:00,2026-07-07T13:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Winner of Match 85,Winner of Match 87,FOX; Peacock,Telemundo,0
-97,Quarter-final,2026-07-09T20:00:00+00:00,2026-07-09T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Winner of Match 89,Winner of Match 90,FOX; Peacock,Telemundo,0
-98,Quarter-final,2026-07-10T19:00:00+00:00,2026-07-10T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner of Match 93,Winner of Match 94,FOX; Peacock,Telemundo,0
-99,Quarter-final,2026-07-11T21:00:00+00:00,2026-07-11T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Winner of Match 91,Winner of Match 92,FOX; Peacock,Telemundo,0
-100,Quarter-final,2026-07-12T01:00:00+00:00,2026-07-11T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner of Match 95,Winner of Match 96,FOX; Peacock,Telemundo,0
-101,Semi-final,2026-07-14T19:00:00+00:00,2026-07-14T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 97,Winner of Match 98,FOX; Peacock,Telemundo,0
-102,Semi-final,2026-07-15T19:00:00+00:00,2026-07-15T15:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 99,Winner of Match 100,FOX; Peacock,Telemundo,0
-103,Match for third place,2026-07-18T21:00:00+00:00,2026-07-18T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Loser of Match 101,Loser of Match 102,FOX; Peacock,Telemundo,0
-104,Final,2026-07-19T19:00:00+00:00,2026-07-19T15:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner of Match 101,Winner of Match 102,FOX; Peacock,Telemundo,0
+68,Group L,2026-06-17T23:00:00+00:00,2026-06-17T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Ghana,Panama,FS1; FOX One,Telemundo,1
+69,Group L,2026-06-23T20:00:00+00:00,2026-06-23T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,England,Ghana,FOX; FOX One,Telemundo,1
+70,Group L,2026-06-23T23:00:00+00:00,2026-06-23T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Panama,Croatia,FOX; FOX One,Telemundo,1
+71,Group L,2026-06-27T21:00:00+00:00,2026-06-27T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Panama,England,FOX; FOX One,Telemundo,1
+72,Group L,2026-06-27T21:00:00+00:00,2026-06-27T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Croatia,Ghana,FS1; FOX One,Telemundo,1
+73,Round of 32,2026-06-28T19:00:00+00:00,2026-06-28T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Runner-up Group A,Runner-up Group B,FOX; FOX One,Telemundo,1
+74,Round of 32,2026-06-29T20:30:00+00:00,2026-06-29T16:30:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Winner Group E,3rd place Group A/B/C/D/F,FOX; FOX One,Telemundo,1
+75,Round of 32,2026-06-30T01:00:00+00:00,2026-06-29T19:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Winner Group F,Runner-up Group C,FOX; FOX One,Telemundo,1
+76,Round of 32,2026-06-29T17:00:00+00:00,2026-06-29T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Winner Group C,Runner-up Group F,FOX; FOX One,Telemundo,1
+77,Round of 32,2026-06-30T21:00:00+00:00,2026-06-30T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner Group I,3rd place Group C/D/F/G/H,FOX; FOX One,Telemundo,1
+78,Round of 32,2026-06-30T17:00:00+00:00,2026-06-30T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Runner-up Group E,Runner-up Group I,FOX; FOX One,Telemundo,1
+79,Round of 32,2026-07-01T01:00:00+00:00,2026-06-30T19:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Winner Group A,3rd place Group C/E/F/H/I,FOX; FOX One,Telemundo,1
+80,Round of 32,2026-07-01T16:00:00+00:00,2026-07-01T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner Group L,3rd place Group E/H/I/J/K,FOX; FOX One,Telemundo,1
+81,Round of 32,2026-07-02T00:00:00+00:00,2026-07-01T17:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,Winner Group D,3rd place Group B/E/F/I/J,FOX; FOX One,Telemundo,1
+82,Round of 32,2026-07-01T20:00:00+00:00,2026-07-01T13:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Winner Group G,3rd place Group A/E/H/I/J,FS1; FOX One,Telemundo,1
+83,Round of 32,2026-07-02T23:00:00+00:00,2026-07-02T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Runner-up Group K,Runner-up Group L,FOX; FOX One,Telemundo,1
+84,Round of 32,2026-07-02T19:00:00+00:00,2026-07-02T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner Group H,Runner-up Group J,FOX; FOX One,Telemundo,1
+85,Round of 32,2026-07-03T03:00:00+00:00,2026-07-02T20:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Winner Group B,3rd place Group E/F/G/I/J,FS1; FOX One,Telemundo,1
+86,Round of 32,2026-07-03T22:00:00+00:00,2026-07-03T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Winner Group J,Runner-up Group H,FOX; FOX One,Telemundo,1
+87,Round of 32,2026-07-04T01:30:00+00:00,2026-07-03T20:30:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner Group K,3rd place Group D/E/I/J/L,FOX; FOX One,Telemundo,1
+88,Round of 32,2026-07-03T18:00:00+00:00,2026-07-03T13:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Runner-up Group D,Runner-up Group G,FOX; FOX One,Telemundo,1
+89,Round of 16,2026-07-04T21:00:00+00:00,2026-07-04T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Winner of Match 74,Winner of Match 77,FOX; FOX One,Telemundo,1
+90,Round of 16,2026-07-04T17:00:00+00:00,2026-07-04T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Winner of Match 73,Winner of Match 75,FOX; FOX One,Telemundo,1
+91,Round of 16,2026-07-05T20:00:00+00:00,2026-07-05T16:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner of Match 76,Winner of Match 78,FOX; FOX One,Telemundo,1
+92,Round of 16,2026-07-06T00:00:00+00:00,2026-07-05T18:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Winner of Match 79,Winner of Match 80,FOX; FOX One,Telemundo,1
+93,Round of 16,2026-07-06T19:00:00+00:00,2026-07-06T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 83,Winner of Match 84,FOX; FOX One,Telemundo,1
+94,Round of 16,2026-07-07T00:00:00+00:00,2026-07-06T17:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Winner of Match 81,Winner of Match 82,FOX; FOX One,Telemundo,1
+95,Round of 16,2026-07-07T16:00:00+00:00,2026-07-07T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 86,Winner of Match 88,FOX; FOX One,Telemundo,1
+96,Round of 16,2026-07-07T20:00:00+00:00,2026-07-07T13:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Winner of Match 85,Winner of Match 87,FOX; FOX One,Telemundo,1
+97,Quarter-final,2026-07-09T20:00:00+00:00,2026-07-09T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Winner of Match 89,Winner of Match 90,FOX; FOX One,Telemundo,1
+98,Quarter-final,2026-07-10T19:00:00+00:00,2026-07-10T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner of Match 93,Winner of Match 94,FOX; FOX One,Telemundo,1
+99,Quarter-final,2026-07-11T21:00:00+00:00,2026-07-11T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Winner of Match 91,Winner of Match 92,FOX; FOX One,Telemundo,1
+100,Quarter-final,2026-07-12T01:00:00+00:00,2026-07-11T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner of Match 95,Winner of Match 96,FOX; FOX One,Telemundo,1
+101,Semi-final,2026-07-14T19:00:00+00:00,2026-07-14T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 97,Winner of Match 98,FOX; FOX One,Telemundo,1
+102,Semi-final,2026-07-15T19:00:00+00:00,2026-07-15T15:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 99,Winner of Match 100,FOX; FOX One,Telemundo,1
+103,Match for third place,2026-07-18T21:00:00+00:00,2026-07-18T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Loser of Match 101,Loser of Match 102,FOX; FOX One,Telemundo,1
+104,Final,2026-07-19T19:00:00+00:00,2026-07-19T15:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner of Match 101,Winner of Match 102,FOX; FOX One,Telemundo,1
