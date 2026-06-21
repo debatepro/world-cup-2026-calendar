@@ -88,14 +88,14 @@ DESCRIPTION:Stage: Group A\nVenue: Estadio Banorte\, Mexico City\, Mexico\n
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-6
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260625T010000Z
 DTEND:20260625T030000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:South Africa vs South Korea
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Group A\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
- N): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ N): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-7
@@ -154,14 +154,14 @@ DESCRIPTION:Stage: Group B\nVenue: BC Place\, Vancouver\, Canada\nTV (EN):
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-12
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260624T190000Z
 DTEND:20260624T210000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Bosnia & Herzegovina vs Qatar
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Group B\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FS
- 1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ 1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-13
@@ -220,14 +220,14 @@ DESCRIPTION:Stage: Group C\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-18
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260624T220000Z
 DTEND:20260625T000000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Morocco vs Haiti
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group C\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ V (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-19
@@ -286,14 +286,14 @@ DESCRIPTION:Stage: Group D\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV (EN
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-24
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260626T020000Z
 DTEND:20260626T040000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Paraguay vs Australia
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Group D\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
-  (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+  (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-25
@@ -342,14 +342,14 @@ DESCRIPTION:Stage: Group E\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-29
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260625T200000Z
 DTEND:20260625T220000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Curaçao vs Ivory Coast
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group E\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+  USA\nTV (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-30
@@ -408,14 +408,14 @@ DESCRIPTION:Stage: Group F\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-35
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Japan vs Sweden
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Group F\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FS
- 1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ 1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-36
@@ -486,14 +486,14 @@ DESCRIPTION:Stage: Group G\nVenue: Lumen Field\, Seattle\, USA\nTV (EN): FS
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-42
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260627T030000Z
 DTEND:20260627T050000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:New Zealand vs Belgium
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Group G\nVenue: BC Place\, Vancouver\, Canada\nTV (EN): 
- FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ FOX\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-43
@@ -541,14 +541,14 @@ DESCRIPTION:Stage: Group H\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-47
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260627T000000Z
 DTEND:20260627T020000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Cape Verde vs Saudi Arabia
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Group H\nVenue: NRG Stadium\, Houston\, USA\nTV (EN): FS
- 1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ 1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-48
@@ -618,14 +618,14 @@ DESCRIPTION:Stage: Group I\nVenue: Gillette Stadium\, Boston\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-54
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260626T190000Z
 DTEND:20260626T210000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Senegal vs Iraq
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Group I\nVenue: BMO Field\, Toronto\, Canada\nTV (EN): F
- S1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ S1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-55
@@ -674,15 +674,14 @@ DESCRIPTION:Stage: Group J\nVenue: Levi's Stadium\, San Francisco\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-59
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260628T020000Z
 DTEND:20260628T040000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Algeria vs Austria
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group J\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-1
- 8
+  City\, USA\nTV (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-60
@@ -752,14 +751,14 @@ DESCRIPTION:Stage: Group K\nVenue: Hard Rock Stadium\, Miami\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-66
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260627T233000Z
 DTEND:20260628T013000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:DR Congo vs Uzbekistan
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Group K\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA\nT
- V (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ V (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-67
@@ -818,14 +817,14 @@ DESCRIPTION:Stage: Group L\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-72
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T004816Z
 DTSTART:20260627T210000Z
 DTEND:20260627T230000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Croatia vs Ghana
 LOCATION:Lincoln Financial Field\, Philadelphia\, USA
 DESCRIPTION:Stage: Group L\nVenue: Lincoln Financial Field\, Philadelphia\,
-  USA\nTV (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+  USA\nTV (EN): FS1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73
