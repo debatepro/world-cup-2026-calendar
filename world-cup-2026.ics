@@ -839,14 +839,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260621T073923Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group E vs 3rd place Group A/B/C/D/F
+SEQUENCE:2
+SUMMARY:Round of 32: Germany vs 3rd place Group A/B/C/D/F
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Boston\, USA\nTV 
- (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-21\nNotes: Knocko
+ ut team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75

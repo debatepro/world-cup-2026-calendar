@@ -1693,9 +1693,9 @@
       "venue": "Gillette Stadium",
       "city": "Boston",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Germany",
       "away_team": null,
-      "home_label": "Winner Group E",
+      "home_label": null,
       "away_label": "3rd place Group A/B/C/D/F",
       "us_english_tv": [
         "FOX",
@@ -1704,8 +1704,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 75,
