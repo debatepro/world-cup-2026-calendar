@@ -1193,13 +1193,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FS1",
+        "FOX",
         "FOX One"
       ],
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1969,9 +1969,9 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Argentina",
       "away_team": null,
-      "home_label": "Winner Group J",
+      "home_label": null,
       "away_label": "Runner-up Group H",
       "us_english_tv": [
         "FOX",
@@ -1980,8 +1980,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 87,

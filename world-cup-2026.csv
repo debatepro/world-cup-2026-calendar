@@ -50,7 +50,7 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 49,Group I,2026-06-16T19:00:00+00:00,2026-06-16T15:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,France,Senegal,FOX; Peacock,Telemundo,0
 50,Group I,2026-06-16T22:00:00+00:00,2026-06-16T18:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Iraq,Norway,FOX; Peacock,Telemundo,0
 51,Group I,2026-06-22T21:00:00+00:00,2026-06-22T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,France,Iraq,FOX; FOX One,Telemundo,1
-52,Group I,2026-06-23T00:00:00+00:00,2026-06-22T20:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Norway,Senegal,FS1; FOX One,Telemundo,2
+52,Group I,2026-06-23T00:00:00+00:00,2026-06-22T20:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Norway,Senegal,FOX; FOX One,Telemundo,3
 53,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Norway,France,FOX; FOX One,Telemundo,1
 54,Group I,2026-06-26T19:00:00+00:00,2026-06-26T15:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Senegal,Iraq,FS1; FOX One,Universo,2
 55,Group J,2026-06-17T01:00:00+00:00,2026-06-16T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Argentina,Algeria,FOX; Peacock,Telemundo,0
@@ -84,7 +84,7 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 83,Round of 32,2026-07-02T23:00:00+00:00,2026-07-02T19:00:00-04:00,America/Toronto,BMO Field,Toronto,Canada,Runner-up Group K,Runner-up Group L,FOX; FOX One,Telemundo,1
 84,Round of 32,2026-07-02T19:00:00+00:00,2026-07-02T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner Group H,Runner-up Group J,FOX; FOX One,Telemundo,1
 85,Round of 32,2026-07-03T03:00:00+00:00,2026-07-02T20:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Winner Group B,3rd place Group E/F/G/I/J,FS1; FOX One,Telemundo,1
-86,Round of 32,2026-07-03T22:00:00+00:00,2026-07-03T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Winner Group J,Runner-up Group H,FOX; FOX One,Telemundo,1
+86,Round of 32,2026-07-03T22:00:00+00:00,2026-07-03T18:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Argentina,Runner-up Group H,FOX; FOX One,Telemundo,2
 87,Round of 32,2026-07-04T01:30:00+00:00,2026-07-03T20:30:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner Group K,3rd place Group D/E/I/J/L,FOX; FOX One,Telemundo,1
 88,Round of 32,2026-07-03T18:00:00+00:00,2026-07-03T13:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Runner-up Group D,Runner-up Group G,FOX; FOX One,Telemundo,1
 89,Round of 16,2026-07-04T21:00:00+00:00,2026-07-04T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Winner of Match 74,Winner of Match 77,FOX; FOX One,Telemundo,1
