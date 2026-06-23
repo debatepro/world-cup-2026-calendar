@@ -802,13 +802,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FS1",
+        "FOX",
         "FOX One"
       ],
       "us_spanish_tv": [
         "Universo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -825,13 +825,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FOX",
+        "FS1",
         "FOX One"
       ],
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1193,13 +1193,13 @@
       "home_label": null,
       "away_label": null,
       "us_english_tv": [
-        "FOX",
+        "FS1",
         "FOX One"
       ],
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
+      "sequence": 2,
       "notes": ""
     },
     {

@@ -408,26 +408,26 @@ DESCRIPTION:Stage: Group F\nVenue: Estadio BBVA\, Monterrey\, Mexico\nTV (E
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-35
-DTSTAMP:20260621T004816Z
+DTSTAMP:20260623T004329Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SEQUENCE:2
+SEQUENCE:3
 SUMMARY:Japan vs Sweden
 LOCATION:AT&T Stadium\, Dallas\, USA
-DESCRIPTION:Stage: Group F\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FS
- 1\, FOX One\nTV (ES): Universo\nUpdated 2026-06-21
+DESCRIPTION:Stage: Group F\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN): FO
+ X\, FOX One\nTV (ES): Universo\nUpdated 2026-06-23
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-36
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260623T004329Z
 DTSTART:20260625T230000Z
 DTEND:20260626T010000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Tunisia vs Netherlands
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Group F\nVenue: GEHA Field at Arrowhead Stadium\, Kansas
-  City\, USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-1
- 8
+  City\, USA\nTV (EN): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-2
+ 3
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-37
@@ -596,14 +596,14 @@ DESCRIPTION:Stage: Group I\nVenue: Lincoln Financial Field\, Philadelphia\,
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-52
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260623T004329Z
 DTSTART:20260623T000000Z
 DTEND:20260623T020000Z
-SEQUENCE:1
+SEQUENCE:2
 SUMMARY:Norway vs Senegal
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Group I\nVenue: MetLife Stadium\, New York\, USA\nTV (EN
- ): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ ): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-23
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-53
