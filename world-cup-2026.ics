@@ -828,11 +828,11 @@ DESCRIPTION:Stage: Group L\nVenue: Lincoln Financial Field\, Philadelphia\,
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73
-DTSTAMP:20260625T004331Z
+DTSTAMP:20260625T071249Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Runner-up Group A vs Canada
+SEQUENCE:3
+SUMMARY:South Africa vs Canada
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
   (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knock

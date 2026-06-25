@@ -1670,9 +1670,9 @@
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": null,
+      "home_team": "South Africa",
       "away_team": "Canada",
-      "home_label": "Runner-up Group A",
+      "home_label": null,
       "away_label": null,
       "us_english_tv": [
         "FOX",
@@ -1681,7 +1681,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
