@@ -1671,9 +1671,9 @@
       "city": "Los Angeles",
       "country": "USA",
       "home_team": null,
-      "away_team": null,
+      "away_team": "Canada",
       "home_label": "Runner-up Group A",
-      "away_label": "Runner-up Group B",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1681,8 +1681,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 74,
@@ -1717,9 +1717,9 @@
       "city": "Monterrey",
       "country": "Mexico",
       "home_team": null,
-      "away_team": null,
+      "away_team": "Morocco",
       "home_label": "Winner Group F",
-      "away_label": "Runner-up Group C",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1727,8 +1727,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 76,
@@ -1739,9 +1739,9 @@
       "venue": "NRG Stadium",
       "city": "Houston",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Brazil",
       "away_team": null,
-      "home_label": "Winner Group C",
+      "home_label": null,
       "away_label": "Runner-up Group F",
       "us_english_tv": [
         "FOX",
@@ -1750,8 +1750,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 77,
@@ -1946,9 +1946,9 @@
       "venue": "BC Place",
       "city": "Vancouver",
       "country": "Canada",
-      "home_team": null,
+      "home_team": "Switzerland",
       "away_team": null,
-      "home_label": "Winner Group B",
+      "home_label": null,
       "away_label": "3rd place Group E/F/G/I/J",
       "us_english_tv": [
         "FS1",
@@ -1957,8 +1957,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 86,

@@ -828,14 +828,15 @@ DESCRIPTION:Stage: Group L\nVenue: Lincoln Financial Field\, Philadelphia\,
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-73
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260625T004331Z
 DTSTART:20260628T190000Z
 DTEND:20260628T210000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Runner-up Group A vs Runner-up Group B
+SEQUENCE:2
+SUMMARY:Round of 32: Runner-up Group A vs Canada
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
-  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knock
+ out team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74
@@ -851,25 +852,27 @@ DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Boston\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260625T004331Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group F vs Runner-up Group C
+SEQUENCE:2
+SUMMARY:Round of 32: Winner Group F vs Morocco
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Round of 32\nVenue: Estadio BBVA\, Monterrey\, Mexico\nT
- V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knoc
+ kout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-76
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260625T004331Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group C vs Runner-up Group F
+SEQUENCE:2
+SUMMARY:Round of 32: Brazil vs Runner-up Group F
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knockout t
+ eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77
@@ -963,14 +966,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-85
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260625T004331Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group B vs 3rd place Group E/F/G/I/J
+SEQUENCE:2
+SUMMARY:Round of 32: Switzerland vs 3rd place Group E/F/G/I/J
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BC Place\, Vancouver\, Canada\nTV (E
- N): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ N): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knockout
+  team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86
