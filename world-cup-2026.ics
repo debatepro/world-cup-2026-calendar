@@ -852,26 +852,26 @@ DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Boston\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-75
-DTSTAMP:20260625T004331Z
+DTSTAMP:20260626T071852Z
 DTSTART:20260630T010000Z
 DTEND:20260630T030000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Winner Group F vs Morocco
+SEQUENCE:3
+SUMMARY:Netherlands vs Morocco
 LOCATION:Estadio BBVA\, Monterrey\, Mexico
 DESCRIPTION:Stage: Round of 32\nVenue: Estadio BBVA\, Monterrey\, Mexico\nT
- V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knoc
+ V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: Knoc
  kout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-76
-DTSTAMP:20260625T004331Z
+DTSTAMP:20260626T071852Z
 DTSTART:20260629T170000Z
 DTEND:20260629T190000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Brazil vs Runner-up Group F
+SEQUENCE:3
+SUMMARY:Brazil vs Japan
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knockout t
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: Knockout t
  eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
@@ -922,14 +922,14 @@ DESCRIPTION:Stage: Round of 32\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-81
-DTSTAMP:20260620T140431Z
+DTSTAMP:20260626T071852Z
 DTSTART:20260702T000000Z
 DTEND:20260702T020000Z
-SEQUENCE:2
-SUMMARY:Round of 32: USA vs 3rd place Group B/E/F/I/J
+SEQUENCE:3
+SUMMARY:USA vs Bosnia & Herzegovina
 LOCATION:Levi's Stadium\, San Francisco\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Levi's Stadium\, San Francisco\, USA
- \nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-20\nNotes: K
+ \nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: K
  nockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,14 +1003,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260626T071852Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Runner-up Group D vs Runner-up Group G
+SEQUENCE:2
+SUMMARY:Round of 32: Australia vs Runner-up Group G
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: Knockout t
+ eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-89

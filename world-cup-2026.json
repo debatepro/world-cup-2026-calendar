@@ -1716,9 +1716,9 @@
       "venue": "Estadio BBVA",
       "city": "Monterrey",
       "country": "Mexico",
-      "home_team": null,
+      "home_team": "Netherlands",
       "away_team": "Morocco",
-      "home_label": "Winner Group F",
+      "home_label": null,
       "away_label": null,
       "us_english_tv": [
         "FOX",
@@ -1727,7 +1727,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1740,9 +1740,9 @@
       "city": "Houston",
       "country": "USA",
       "home_team": "Brazil",
-      "away_team": null,
+      "away_team": "Japan",
       "home_label": null,
-      "away_label": "Runner-up Group F",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1750,7 +1750,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1855,9 +1855,9 @@
       "city": "San Francisco",
       "country": "USA",
       "home_team": "USA",
-      "away_team": null,
+      "away_team": "Bosnia & Herzegovina",
       "home_label": null,
-      "away_label": "3rd place Group B/E/F/I/J",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1865,7 +1865,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -2015,9 +2015,9 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Australia",
       "away_team": null,
-      "home_label": "Runner-up Group D",
+      "home_label": null,
       "away_label": "Runner-up Group G",
       "us_english_tv": [
         "FOX",
@@ -2026,8 +2026,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 89,
