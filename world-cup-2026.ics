@@ -887,14 +887,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: MetLife Stadium\, New York\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-78
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260626T004456Z
 DTSTART:20260630T170000Z
 DTEND:20260630T190000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Runner-up Group E vs Runner-up Group I
+SEQUENCE:2
+SUMMARY:Round of 32: Ivory Coast vs Runner-up Group I
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: Knockout t
+ eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-79
