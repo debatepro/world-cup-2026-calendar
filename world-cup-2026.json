@@ -1694,9 +1694,9 @@
       "city": "Boston",
       "country": "USA",
       "home_team": "Germany",
-      "away_team": null,
+      "away_team": "Paraguay",
       "home_label": null,
-      "away_label": "3rd place Group A/B/C/D/F",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1704,7 +1704,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1763,9 +1763,9 @@
       "city": "New York",
       "country": "USA",
       "home_team": "France",
-      "away_team": null,
+      "away_team": "Sweden",
       "home_label": null,
-      "away_label": "3rd place Group C/D/F/G/H",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1773,7 +1773,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1877,9 +1877,9 @@
       "venue": "Lumen Field",
       "city": "Seattle",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Belgium",
       "away_team": null,
-      "home_label": "Winner Group G",
+      "home_label": null,
       "away_label": "3rd place Group A/E/H/I/J",
       "us_english_tv": [
         "FS1",
@@ -1888,8 +1888,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 83,
@@ -1923,9 +1923,9 @@
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Spain",
       "away_team": null,
-      "home_label": "Winner Group H",
+      "home_label": null,
       "away_label": "Runner-up Group J",
       "us_english_tv": [
         "FOX",
@@ -1934,8 +1934,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 85,
@@ -1970,9 +1970,9 @@
       "city": "Miami",
       "country": "USA",
       "home_team": "Argentina",
-      "away_team": null,
+      "away_team": "Cape Verde",
       "home_label": null,
-      "away_label": "Runner-up Group H",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1980,7 +1980,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -2016,9 +2016,9 @@
       "city": "Dallas",
       "country": "USA",
       "home_team": "Australia",
-      "away_team": null,
+      "away_team": "Egypt",
       "home_label": null,
-      "away_label": "Runner-up Group G",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2026,7 +2026,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {

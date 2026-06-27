@@ -840,14 +840,14 @@ DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-74
-DTSTAMP:20260621T073923Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260629T203000Z
 DTEND:20260629T223000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Germany vs 3rd place Group A/B/C/D/F
+SEQUENCE:3
+SUMMARY:Germany vs Paraguay
 LOCATION:Gillette Stadium\, Boston\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Gillette Stadium\, Boston\, USA\nTV 
- (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-21\nNotes: Knocko
+ (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knocko
  ut team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
@@ -876,11 +876,11 @@ DESCRIPTION:Stage: Round of 32\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-77
-DTSTAMP:20260627T004225Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260630T210000Z
 DTEND:20260630T230000Z
-SEQUENCE:2
-SUMMARY:Round of 32: France vs 3rd place Group C/D/F/G/H
+SEQUENCE:3
+SUMMARY:France vs Sweden
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: MetLife Stadium\, New York\, USA\nTV
   (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knock
@@ -935,14 +935,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: Levi's Stadium\, San Francisco\, USA
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-82
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group G vs 3rd place Group A/E/H/I/J
+SEQUENCE:2
+SUMMARY:Round of 32: Belgium vs 3rd place Group A/E/H/I/J
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
- : FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ : FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knockout t
+ eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83
@@ -957,14 +958,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, Canada\nTV (EN
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-84
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group H vs Runner-up Group J
+SEQUENCE:2
+SUMMARY:Round of 32: Spain vs Runner-up Group J
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
-  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knock
+ out team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-85
@@ -980,14 +982,14 @@ DESCRIPTION:Stage: Round of 32\nVenue: BC Place\, Vancouver\, Canada\nTV (E
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-86
-DTSTAMP:20260623T071541Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260703T220000Z
 DTEND:20260704T000000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Argentina vs Runner-up Group H
+SEQUENCE:3
+SUMMARY:Argentina vs Cape Verde
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Hard Rock Stadium\, Miami\, USA\nTV 
- (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-23\nNotes: Knocko
+ (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knocko
  ut team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
@@ -1004,14 +1006,14 @@ DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88
-DTSTAMP:20260626T071852Z
+DTSTAMP:20260627T070551Z
 DTSTART:20260703T180000Z
 DTEND:20260703T200000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Australia vs Runner-up Group G
+SEQUENCE:3
+SUMMARY:Australia vs Egypt
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-26\nNotes: Knockout t
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knockout t
  eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
