@@ -75,8 +75,8 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 74,Round of 32,2026-06-29T20:30:00+00:00,2026-06-29T16:30:00-04:00,America/New_York,Gillette Stadium,Boston,USA,Germany,3rd place Group A/B/C/D/F,FOX; FOX One,Telemundo,2
 75,Round of 32,2026-06-30T01:00:00+00:00,2026-06-29T19:00:00-06:00,America/Monterrey,Estadio BBVA,Monterrey,Mexico,Netherlands,Morocco,FOX; FOX One,Telemundo,3
 76,Round of 32,2026-06-29T17:00:00+00:00,2026-06-29T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Brazil,Japan,FOX; FOX One,Telemundo,3
-77,Round of 32,2026-06-30T21:00:00+00:00,2026-06-30T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Winner Group I,3rd place Group C/D/F/G/H,FOX; FOX One,Telemundo,1
-78,Round of 32,2026-06-30T17:00:00+00:00,2026-06-30T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Ivory Coast,Runner-up Group I,FOX; FOX One,Telemundo,2
+77,Round of 32,2026-06-30T21:00:00+00:00,2026-06-30T17:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,France,3rd place Group C/D/F/G/H,FOX; FOX One,Telemundo,2
+78,Round of 32,2026-06-30T17:00:00+00:00,2026-06-30T12:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Ivory Coast,Norway,FOX; FOX One,Telemundo,3
 79,Round of 32,2026-07-01T01:00:00+00:00,2026-06-30T19:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Mexico,3rd place Group C/E/F/H/I,FOX; FOX One,Telemundo,2
 80,Round of 32,2026-07-01T16:00:00+00:00,2026-07-01T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner Group L,3rd place Group E/H/I/J/K,FOX; FOX One,Telemundo,1
 81,Round of 32,2026-07-02T00:00:00+00:00,2026-07-01T17:00:00-07:00,America/Los_Angeles,Levi's Stadium,San Francisco,USA,USA,Bosnia & Herzegovina,FOX; FOX One,Telemundo,3

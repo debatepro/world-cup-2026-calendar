@@ -1762,9 +1762,9 @@
       "venue": "MetLife Stadium",
       "city": "New York",
       "country": "USA",
-      "home_team": null,
+      "home_team": "France",
       "away_team": null,
-      "home_label": "Winner Group I",
+      "home_label": null,
       "away_label": "3rd place Group C/D/F/G/H",
       "us_english_tv": [
         "FOX",
@@ -1773,8 +1773,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 78,
@@ -1786,9 +1786,9 @@
       "city": "Dallas",
       "country": "USA",
       "home_team": "Ivory Coast",
-      "away_team": null,
+      "away_team": "Norway",
       "home_label": null,
-      "away_label": "Runner-up Group I",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1796,7 +1796,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
