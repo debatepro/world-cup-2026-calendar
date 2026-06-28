@@ -1832,9 +1832,9 @@
       "city": "Atlanta",
       "country": "USA",
       "home_team": "England",
-      "away_team": null,
+      "away_team": "DR Congo",
       "home_label": null,
-      "away_label": "3rd place Group E/H/I/J/K",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1842,7 +1842,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1878,9 +1878,9 @@
       "city": "Seattle",
       "country": "USA",
       "home_team": "Belgium",
-      "away_team": null,
+      "away_team": "Senegal",
       "home_label": null,
-      "away_label": "3rd place Group A/E/H/I/J",
+      "away_label": null,
       "us_english_tv": [
         "FS1",
         "FOX One"
@@ -1888,7 +1888,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1900,9 +1900,9 @@
       "venue": "BMO Field",
       "city": "Toronto",
       "country": "Canada",
-      "home_team": null,
+      "home_team": "Portugal",
       "away_team": "Croatia",
-      "home_label": "Runner-up Group K",
+      "home_label": null,
       "away_label": null,
       "us_english_tv": [
         "FOX",
@@ -1911,7 +1911,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1924,9 +1924,9 @@
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "Spain",
-      "away_team": null,
+      "away_team": "Austria",
       "home_label": null,
-      "away_label": "Runner-up Group J",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1934,7 +1934,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1947,9 +1947,9 @@
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "Switzerland",
-      "away_team": null,
+      "away_team": "Algeria",
       "home_label": null,
-      "away_label": "3rd place Group E/F/G/I/J",
+      "away_label": null,
       "us_english_tv": [
         "FS1",
         "FOX One"
@@ -1957,7 +1957,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1992,9 +1992,9 @@
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Colombia",
       "away_team": "Ghana",
-      "home_label": "Winner Group K",
+      "home_label": null,
       "away_label": null,
       "us_english_tv": [
         "FOX",
@@ -2003,7 +2003,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {

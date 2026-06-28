@@ -912,11 +912,11 @@ DESCRIPTION:Stage: Round of 32\nVenue: Estadio Banorte\, Mexico City\, Mexi
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80
-DTSTAMP:20260628T004323Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SEQUENCE:2
-SUMMARY:Round of 32: England vs 3rd place Group E/H/I/J/K
+SEQUENCE:3
+SUMMARY:England vs DR Congo
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
  A\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: 
@@ -936,23 +936,23 @@ DESCRIPTION:Stage: Round of 32\nVenue: Levi's Stadium\, San Francisco\, USA
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-82
-DTSTAMP:20260627T070551Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260701T200000Z
 DTEND:20260701T220000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Belgium vs 3rd place Group A/E/H/I/J
+SEQUENCE:3
+SUMMARY:Belgium vs Senegal
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
- : FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knockout t
+ : FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: Knockout t
  eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83
-DTSTAMP:20260628T004323Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Runner-up Group K vs Croatia
+SEQUENCE:3
+SUMMARY:Portugal vs Croatia
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, Canada\nTV (EN
  ): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: Knockout 
@@ -960,26 +960,26 @@ DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, Canada\nTV (EN
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-84
-DTSTAMP:20260627T070551Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260702T190000Z
 DTEND:20260702T210000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Spain vs Runner-up Group J
+SEQUENCE:3
+SUMMARY:Spain vs Austria
 LOCATION:SoFi Stadium\, Los Angeles\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: SoFi Stadium\, Los Angeles\, USA\nTV
-  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-27\nNotes: Knock
+  (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: Knock
  out team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-85
-DTSTAMP:20260625T004331Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260703T030000Z
 DTEND:20260703T050000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Switzerland vs 3rd place Group E/F/G/I/J
+SEQUENCE:3
+SUMMARY:Switzerland vs Algeria
 LOCATION:BC Place\, Vancouver\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BC Place\, Vancouver\, Canada\nTV (E
- N): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-25\nNotes: Knockout
+ N): FS1\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: Knockout
   team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
@@ -996,11 +996,11 @@ DESCRIPTION:Stage: Round of 32\nVenue: Hard Rock Stadium\, Miami\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87
-DTSTAMP:20260628T004323Z
+DTSTAMP:20260628T072219Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Winner Group K vs Ghana
+SEQUENCE:3
+SUMMARY:Colombia vs Ghana
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
  nsas City\, USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-
