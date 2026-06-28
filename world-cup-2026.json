@@ -1809,9 +1809,9 @@
       "city": "Mexico City",
       "country": "Mexico",
       "home_team": "Mexico",
-      "away_team": null,
+      "away_team": "Ecuador",
       "home_label": null,
-      "away_label": "3rd place Group C/E/F/H/I",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1819,7 +1819,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -1831,9 +1831,9 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "country": "USA",
-      "home_team": null,
+      "home_team": "England",
       "away_team": null,
-      "home_label": "Winner Group L",
+      "home_label": null,
       "away_label": "3rd place Group E/H/I/J/K",
       "us_english_tv": [
         "FOX",
@@ -1842,8 +1842,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 81,
@@ -1901,9 +1901,9 @@
       "city": "Toronto",
       "country": "Canada",
       "home_team": null,
-      "away_team": null,
+      "away_team": "Croatia",
       "home_label": "Runner-up Group K",
-      "away_label": "Runner-up Group L",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -1911,8 +1911,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 84,
@@ -1993,9 +1993,9 @@
       "city": "Kansas City",
       "country": "USA",
       "home_team": null,
-      "away_team": null,
+      "away_team": "Ghana",
       "home_label": "Winner Group K",
-      "away_label": "3rd place Group D/E/I/J/L",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2003,8 +2003,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 88,

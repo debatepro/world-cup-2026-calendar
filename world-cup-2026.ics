@@ -900,26 +900,27 @@ DESCRIPTION:Stage: Round of 32\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-79
-DTSTAMP:20260620T140431Z
+DTSTAMP:20260628T004323Z
 DTSTART:20260701T010000Z
 DTEND:20260701T030000Z
-SEQUENCE:2
-SUMMARY:Round of 32: Mexico vs 3rd place Group C/E/F/H/I
+SEQUENCE:3
+SUMMARY:Mexico vs Ecuador
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Round of 32\nVenue: Estadio Banorte\, Mexico City\, Mexi
- co\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-20\nNotes:
+ co\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes:
   Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-80
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260628T004323Z
 DTSTART:20260701T160000Z
 DTEND:20260701T180000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group L vs 3rd place Group E/H/I/J/K
+SEQUENCE:2
+SUMMARY:Round of 32: England vs 3rd place Group E/H/I/J/K
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
- A\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ A\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: 
+ Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-81
@@ -947,14 +948,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-83
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260628T004323Z
 DTSTART:20260702T230000Z
 DTEND:20260703T010000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Runner-up Group K vs Runner-up Group L
+SEQUENCE:2
+SUMMARY:Round of 32: Runner-up Group K vs Croatia
 LOCATION:BMO Field\, Toronto\, Canada
 DESCRIPTION:Stage: Round of 32\nVenue: BMO Field\, Toronto\, Canada\nTV (EN
- ): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ ): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-28\nNotes: Knockout 
+ team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-84
@@ -994,15 +996,15 @@ DESCRIPTION:Stage: Round of 32\nVenue: Hard Rock Stadium\, Miami\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-87
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260628T004323Z
 DTSTART:20260704T013000Z
 DTEND:20260704T033000Z
-SEQUENCE:1
-SUMMARY:Round of 32: Winner Group K vs 3rd place Group D/E/I/J/L
+SEQUENCE:2
+SUMMARY:Round of 32: Winner Group K vs Ghana
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Round of 32\nVenue: GEHA Field at Arrowhead Stadium\, Ka
  nsas City\, USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-
- 06-18
+ 06-28\nNotes: Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-88
