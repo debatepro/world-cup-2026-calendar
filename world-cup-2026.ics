@@ -1032,14 +1032,14 @@ DESCRIPTION:Stage: Round of 16\nVenue: Lincoln Financial Field\, Philadelph
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-90
-DTSTAMP:20260629T004433Z
+DTSTAMP:20260630T071859Z
 DTSTART:20260704T170000Z
 DTEND:20260704T190000Z
-SEQUENCE:2
-SUMMARY:Round of 16: Canada vs Winner of Match 75
+SEQUENCE:3
+SUMMARY:Canada vs Morocco
 LOCATION:NRG Stadium\, Houston\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: NRG Stadium\, Houston\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-29\nNotes: Knockout t
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-30\nNotes: Knockout t
  eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
