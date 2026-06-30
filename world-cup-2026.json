@@ -2038,9 +2038,9 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Paraguay",
       "away_team": null,
-      "home_label": "Winner of Match 74",
+      "home_label": null,
       "away_label": "Winner of Match 77",
       "us_english_tv": [
         "FOX",
@@ -2049,8 +2049,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 90,
@@ -2084,9 +2084,9 @@
       "venue": "MetLife Stadium",
       "city": "New York",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Brazil",
       "away_team": null,
-      "home_label": "Winner of Match 76",
+      "home_label": null,
       "away_label": "Winner of Match 78",
       "us_english_tv": [
         "FOX",
@@ -2095,8 +2095,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 92,
