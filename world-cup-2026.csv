@@ -90,7 +90,7 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 89,Round of 16,2026-07-04T21:00:00+00:00,2026-07-04T17:00:00-04:00,America/New_York,Lincoln Financial Field,Philadelphia,USA,Paraguay,France,FOX; FOX One,Telemundo,3
 90,Round of 16,2026-07-04T17:00:00+00:00,2026-07-04T12:00:00-05:00,America/Chicago,NRG Stadium,Houston,USA,Canada,Morocco,FOX; FOX One,Telemundo,3
 91,Round of 16,2026-07-05T20:00:00+00:00,2026-07-05T16:00:00-04:00,America/New_York,MetLife Stadium,New York,USA,Brazil,Norway,FOX; FOX One,Telemundo,3
-92,Round of 16,2026-07-06T00:00:00+00:00,2026-07-05T18:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Winner of Match 79,Winner of Match 80,FOX; FOX One,Telemundo,1
+92,Round of 16,2026-07-06T00:00:00+00:00,2026-07-05T18:00:00-06:00,America/Mexico_City,Estadio Banorte,Mexico City,Mexico,Mexico,Winner of Match 80,FOX; FOX One,Telemundo,2
 93,Round of 16,2026-07-06T19:00:00+00:00,2026-07-06T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 83,Winner of Match 84,FOX; FOX One,Telemundo,1
 94,Round of 16,2026-07-07T00:00:00+00:00,2026-07-06T17:00:00-07:00,America/Los_Angeles,Lumen Field,Seattle,USA,Winner of Match 81,Winner of Match 82,FOX; FOX One,Telemundo,1
 95,Round of 16,2026-07-07T16:00:00+00:00,2026-07-07T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 86,Winner of Match 88,FOX; FOX One,Telemundo,1

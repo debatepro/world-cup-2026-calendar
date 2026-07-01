@@ -2107,9 +2107,9 @@
       "venue": "Estadio Banorte",
       "city": "Mexico City",
       "country": "Mexico",
-      "home_team": null,
+      "home_team": "Mexico",
       "away_team": null,
-      "home_label": "Winner of Match 79",
+      "home_label": null,
       "away_label": "Winner of Match 80",
       "us_english_tv": [
         "FOX",
@@ -2118,8 +2118,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 93,
