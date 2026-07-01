@@ -1056,11 +1056,11 @@ DESCRIPTION:Stage: Round of 16\nVenue: MetLife Stadium\, New York\, USA\nTV
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-92
-DTSTAMP:20260701T073100Z
+DTSTAMP:20260701T184012Z
 DTSTART:20260706T000000Z
 DTEND:20260706T020000Z
-SEQUENCE:2
-SUMMARY:Round of 16: Mexico vs Winner of Match 80
+SEQUENCE:3
+SUMMARY:Mexico vs England
 LOCATION:Estadio Banorte\, Mexico City\, Mexico
 DESCRIPTION:Stage: Round of 16\nVenue: Estadio Banorte\, Mexico City\, Mexi
  co\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-01\nNotes:

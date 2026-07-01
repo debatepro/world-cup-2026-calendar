@@ -2108,9 +2108,9 @@
       "city": "Mexico City",
       "country": "Mexico",
       "home_team": "Mexico",
-      "away_team": null,
+      "away_team": "England",
       "home_label": null,
-      "away_label": "Winner of Match 80",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2118,7 +2118,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
