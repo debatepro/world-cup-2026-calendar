@@ -2039,9 +2039,9 @@
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "Paraguay",
-      "away_team": null,
+      "away_team": "France",
       "home_label": null,
-      "away_label": "Winner of Match 77",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2049,7 +2049,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
@@ -2085,9 +2085,9 @@
       "city": "New York",
       "country": "USA",
       "home_team": "Brazil",
-      "away_team": null,
+      "away_team": "Norway",
       "home_label": null,
-      "away_label": "Winner of Match 78",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2095,7 +2095,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
