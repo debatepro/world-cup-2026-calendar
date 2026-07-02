@@ -1079,11 +1079,11 @@ DESCRIPTION:Stage: Round of 16\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94
-DTSTAMP:20260702T004239Z
+DTSTAMP:20260702T084923Z
 DTSTART:20260707T000000Z
 DTEND:20260707T020000Z
-SEQUENCE:2
-SUMMARY:Round of 16: Winner of Match 81 vs Belgium
+SEQUENCE:3
+SUMMARY:USA vs Belgium
 LOCATION:Lumen Field\, Seattle\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
  : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-02\nNotes: Knockout t

@@ -2153,9 +2153,9 @@
       "venue": "Lumen Field",
       "city": "Seattle",
       "country": "USA",
-      "home_team": null,
+      "home_team": "USA",
       "away_team": "Belgium",
-      "home_label": "Winner of Match 81",
+      "home_label": null,
       "away_label": null,
       "us_english_tv": [
         "FOX",
@@ -2164,7 +2164,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
