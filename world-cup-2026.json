@@ -2199,9 +2199,9 @@
       "venue": "BC Place",
       "city": "Vancouver",
       "country": "Canada",
-      "home_team": null,
+      "home_team": "Switzerland",
       "away_team": null,
-      "home_label": "Winner of Match 85",
+      "home_label": null,
       "away_label": "Winner of Match 87",
       "us_english_tv": [
         "FOX",
@@ -2210,8 +2210,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 97,
