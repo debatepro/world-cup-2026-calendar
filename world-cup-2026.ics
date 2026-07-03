@@ -1068,14 +1068,15 @@ DESCRIPTION:Stage: Round of 16\nVenue: Estadio Banorte\, Mexico City\, Mexi
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-93
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260703T023157Z
 DTSTART:20260706T190000Z
 DTEND:20260706T210000Z
-SEQUENCE:1
-SUMMARY:Round of 16: Winner of Match 83 vs Winner of Match 84
+SEQUENCE:2
+SUMMARY:Portugal vs Spain
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN)
- : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ : FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-03\nNotes: Knockout t
+ eam(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-94
