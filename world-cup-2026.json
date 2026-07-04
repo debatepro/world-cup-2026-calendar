@@ -2200,9 +2200,9 @@
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "Switzerland",
-      "away_team": null,
+      "away_team": "Colombia",
       "home_label": null,
-      "away_label": "Winner of Match 87",
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2210,7 +2210,7 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 2,
+      "sequence": 3,
       "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
