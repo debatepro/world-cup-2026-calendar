@@ -2176,10 +2176,10 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "country": "USA",
-      "home_team": null,
-      "away_team": null,
-      "home_label": "Winner of Match 86",
-      "away_label": "Winner of Match 88",
+      "home_team": "Argentina",
+      "away_team": "Egypt",
+      "home_label": null,
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2187,8 +2187,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 96,

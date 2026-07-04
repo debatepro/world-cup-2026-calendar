@@ -1092,14 +1092,15 @@ DESCRIPTION:Stage: Round of 16\nVenue: Lumen Field\, Seattle\, USA\nTV (EN)
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-95
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260704T022930Z
 DTSTART:20260707T160000Z
 DTEND:20260707T180000Z
-SEQUENCE:1
-SUMMARY:Round of 16: Winner of Match 86 vs Winner of Match 88
+SEQUENCE:2
+SUMMARY:Argentina vs Egypt
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Round of 16\nVenue: Mercedes-Benz Stadium\, Atlanta\, US
- A\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ A\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-04\nNotes: 
+ Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-96
