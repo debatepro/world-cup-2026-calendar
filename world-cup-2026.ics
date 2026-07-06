@@ -1139,11 +1139,11 @@ DESCRIPTION:Stage: Quarter-final\nVenue: SoFi Stadium\, Los Angeles\, USA\n
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99
-DTSTAMP:20260706T024404Z
+DTSTAMP:20260706T100926Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SEQUENCE:2
-SUMMARY:Quarter-final: Norway vs Winner of Match 92
+SEQUENCE:3
+SUMMARY:Norway vs England
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: Hard Rock Stadium\, Miami\, USA\nT
  V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-06\nNotes: Knoc
