@@ -1139,14 +1139,15 @@ DESCRIPTION:Stage: Quarter-final\nVenue: SoFi Stadium\, Los Angeles\, USA\n
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-99
-DTSTAMP:20260618T004900Z
+DTSTAMP:20260706T024404Z
 DTSTART:20260711T210000Z
 DTEND:20260711T230000Z
-SEQUENCE:1
-SUMMARY:Quarter-final: Winner of Match 91 vs Winner of Match 92
+SEQUENCE:2
+SUMMARY:Quarter-final: Norway vs Winner of Match 92
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: Hard Rock Stadium\, Miami\, USA\nT
- V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-06-18
+ V (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-06\nNotes: Knoc
+ kout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100
