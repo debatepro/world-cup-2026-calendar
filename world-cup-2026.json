@@ -2291,9 +2291,9 @@
       "venue": "GEHA Field at Arrowhead Stadium",
       "city": "Kansas City",
       "country": "USA",
-      "home_team": null,
+      "home_team": "Argentina",
       "away_team": null,
-      "home_label": "Winner of Match 95",
+      "home_label": null,
       "away_label": "Winner of Match 96",
       "us_english_tv": [
         "FOX",
@@ -2302,8 +2302,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 101,

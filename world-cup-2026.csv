@@ -98,7 +98,7 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 97,Quarter-final,2026-07-09T20:00:00+00:00,2026-07-09T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,France,Morocco,FOX; FOX One,Telemundo,2
 98,Quarter-final,2026-07-10T19:00:00+00:00,2026-07-10T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Spain,Belgium,FOX; FOX One,Telemundo,2
 99,Quarter-final,2026-07-11T21:00:00+00:00,2026-07-11T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Norway,England,FOX; FOX One,Telemundo,3
-100,Quarter-final,2026-07-12T01:00:00+00:00,2026-07-11T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner of Match 95,Winner of Match 96,FOX; FOX One,Telemundo,1
+100,Quarter-final,2026-07-12T01:00:00+00:00,2026-07-11T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Argentina,Winner of Match 96,FOX; FOX One,Telemundo,2
 101,Semi-final,2026-07-14T19:00:00+00:00,2026-07-14T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 97,Winner of Match 98,FOX; FOX One,Telemundo,1
 102,Semi-final,2026-07-15T19:00:00+00:00,2026-07-15T15:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Winner of Match 99,Winner of Match 100,FOX; FOX One,Telemundo,1
 103,Match for third place,2026-07-18T21:00:00+00:00,2026-07-18T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Loser of Match 101,Loser of Match 102,FOX; FOX One,Telemundo,1
