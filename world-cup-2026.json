@@ -2245,10 +2245,10 @@
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": null,
-      "away_team": null,
-      "home_label": "Winner of Match 93",
-      "away_label": "Winner of Match 94",
+      "home_team": "Spain",
+      "away_team": "Belgium",
+      "home_label": null,
+      "away_label": null,
       "us_english_tv": [
         "FOX",
         "FOX One"
@@ -2256,8 +2256,8 @@
       "us_spanish_tv": [
         "Telemundo"
       ],
-      "sequence": 1,
-      "notes": ""
+      "sequence": 2,
+      "notes": "Knockout team(s) resolved from broadcaster listings."
     },
     {
       "match_id": 99,

@@ -96,7 +96,7 @@ match_id,stage,kickoff_utc,kickoff_local,timezone,venue,city,country,home,away,u
 95,Round of 16,2026-07-07T16:00:00+00:00,2026-07-07T12:00:00-04:00,America/New_York,Mercedes-Benz Stadium,Atlanta,USA,Argentina,Egypt,FOX; FOX One,Telemundo,2
 96,Round of 16,2026-07-07T20:00:00+00:00,2026-07-07T13:00:00-07:00,America/Vancouver,BC Place,Vancouver,Canada,Switzerland,Colombia,FOX; FOX One,Telemundo,3
 97,Quarter-final,2026-07-09T20:00:00+00:00,2026-07-09T16:00:00-04:00,America/New_York,Gillette Stadium,Boston,USA,France,Morocco,FOX; FOX One,Telemundo,2
-98,Quarter-final,2026-07-10T19:00:00+00:00,2026-07-10T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Winner of Match 93,Winner of Match 94,FOX; FOX One,Telemundo,1
+98,Quarter-final,2026-07-10T19:00:00+00:00,2026-07-10T12:00:00-07:00,America/Los_Angeles,SoFi Stadium,Los Angeles,USA,Spain,Belgium,FOX; FOX One,Telemundo,2
 99,Quarter-final,2026-07-11T21:00:00+00:00,2026-07-11T17:00:00-04:00,America/New_York,Hard Rock Stadium,Miami,USA,Norway,England,FOX; FOX One,Telemundo,3
 100,Quarter-final,2026-07-12T01:00:00+00:00,2026-07-11T20:00:00-05:00,America/Chicago,GEHA Field at Arrowhead Stadium,Kansas City,USA,Winner of Match 95,Winner of Match 96,FOX; FOX One,Telemundo,1
 101,Semi-final,2026-07-14T19:00:00+00:00,2026-07-14T14:00:00-05:00,America/Chicago,AT&T Stadium,Dallas,USA,Winner of Match 97,Winner of Match 98,FOX; FOX One,Telemundo,1
