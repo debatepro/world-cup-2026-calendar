@@ -1152,15 +1152,15 @@ DESCRIPTION:Stage: Quarter-final\nVenue: Hard Rock Stadium\, Miami\, USA\nT
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-100
-DTSTAMP:20260707T194852Z
+DTSTAMP:20260708T021310Z
 DTSTART:20260712T010000Z
 DTEND:20260712T030000Z
-SEQUENCE:2
-SUMMARY:Quarter-final: Argentina vs Winner of Match 96
+SEQUENCE:3
+SUMMARY:Argentina vs Switzerland
 LOCATION:GEHA Field at Arrowhead Stadium\, Kansas City\, USA
 DESCRIPTION:Stage: Quarter-final\nVenue: GEHA Field at Arrowhead Stadium\, 
  Kansas City\, USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 202
- 6-07-07\nNotes: Knockout team(s) resolved from broadcaster listings.
+ 6-07-08\nNotes: Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101
