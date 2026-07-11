@@ -1164,14 +1164,14 @@ DESCRIPTION:Stage: Quarter-final\nVenue: GEHA Field at Arrowhead Stadium\,
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-101
-DTSTAMP:20260710T023348Z
+DTSTAMP:20260711T021013Z
 DTSTART:20260714T190000Z
 DTEND:20260714T210000Z
-SEQUENCE:2
-SUMMARY:Semi-final: France vs Winner of Match 98
+SEQUENCE:3
+SUMMARY:France vs Spain
 LOCATION:AT&T Stadium\, Dallas\, USA
 DESCRIPTION:Stage: Semi-final\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN):
-  FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-10\nNotes: Knockout te
+  FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-11\nNotes: Knockout te
  am(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
