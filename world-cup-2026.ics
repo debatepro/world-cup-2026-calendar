@@ -1176,11 +1176,11 @@ DESCRIPTION:Stage: Semi-final\nVenue: AT&T Stadium\, Dallas\, USA\nTV (EN):
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-102
-DTSTAMP:20260712T021449Z
+DTSTAMP:20260712T080907Z
 DTSTART:20260715T190000Z
 DTEND:20260715T210000Z
-SEQUENCE:2
-SUMMARY:Semi-final: England vs Winner of Match 100
+SEQUENCE:3
+SUMMARY:England vs Argentina
 LOCATION:Mercedes-Benz Stadium\, Atlanta\, USA
 DESCRIPTION:Stage: Semi-final\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA
  \nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-12\nNotes: K
