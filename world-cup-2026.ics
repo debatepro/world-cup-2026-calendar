@@ -1188,26 +1188,26 @@ DESCRIPTION:Stage: Semi-final\nVenue: Mercedes-Benz Stadium\, Atlanta\, USA
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-103
-DTSTAMP:20260715T002528Z
+DTSTAMP:20260716T002908Z
 DTSTART:20260718T210000Z
 DTEND:20260718T230000Z
-SEQUENCE:2
-SUMMARY:Match for third place: France vs Loser of Match 102
+SEQUENCE:3
+SUMMARY:France vs England
 LOCATION:Hard Rock Stadium\, Miami\, USA
 DESCRIPTION:Stage: Match for third place\nVenue: Hard Rock Stadium\, Miami\
- , USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-15\nNot
+ , USA\nTV (EN): FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-16\nNot
  es: Knockout team(s) resolved from broadcaster listings.
 END:VEVENT
 BEGIN:VEVENT
 UID:wc2026-match-104
-DTSTAMP:20260715T002528Z
+DTSTAMP:20260716T002908Z
 DTSTART:20260719T190000Z
 DTEND:20260719T210000Z
-SEQUENCE:2
-SUMMARY:Final: Spain vs Winner of Match 102
+SEQUENCE:3
+SUMMARY:Spain vs Argentina
 LOCATION:MetLife Stadium\, New York\, USA
 DESCRIPTION:Stage: Final\nVenue: MetLife Stadium\, New York\, USA\nTV (EN):
-  FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-15\nNotes: Knockout te
+  FOX\, FOX One\nTV (ES): Telemundo\nUpdated 2026-07-16\nNotes: Knockout te
  am(s) resolved from broadcaster listings.
 END:VEVENT
 END:VCALENDAR
