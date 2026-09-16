@@ -12,21 +12,16 @@
       "kickoff_utc": "2026-06-11T19:00:00+00:00",
       "kickoff_local": "2026-06-11T13:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Banorte",
+      "venue": "Mexico City",
       "city": "Mexico City",
       "country": "Mexico",
       "home_team": "Mexico",
       "away_team": "South Africa",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -35,21 +30,16 @@
       "kickoff_utc": "2026-06-12T02:00:00+00:00",
       "kickoff_local": "2026-06-11T20:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Akron",
+      "venue": "Guadalajara (Zapopan)",
       "city": "Guadalajara",
       "country": "Mexico",
       "home_team": "South Korea",
       "away_team": "Czech Republic",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -58,21 +48,16 @@
       "kickoff_utc": "2026-06-18T16:00:00+00:00",
       "kickoff_local": "2026-06-18T12:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
       "home_team": "Czech Republic",
       "away_team": "South Africa",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -81,21 +66,16 @@
       "kickoff_utc": "2026-06-19T01:00:00+00:00",
       "kickoff_local": "2026-06-18T19:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Akron",
+      "venue": "Guadalajara (Zapopan)",
       "city": "Guadalajara",
       "country": "Mexico",
       "home_team": "Mexico",
       "away_team": "South Korea",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -104,21 +84,16 @@
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_local": "2026-06-24T19:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Banorte",
+      "venue": "Mexico City",
       "city": "Mexico City",
       "country": "Mexico",
       "home_team": "Czech Republic",
       "away_team": "Mexico",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -127,21 +102,16 @@
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_local": "2026-06-24T19:00:00-06:00",
       "timezone": "America/Monterrey",
-      "venue": "Estadio BBVA",
+      "venue": "Monterrey (Guadalupe)",
       "city": "Monterrey",
       "country": "Mexico",
       "home_team": "South Africa",
       "away_team": "South Korea",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -150,21 +120,16 @@
       "kickoff_utc": "2026-06-12T19:00:00+00:00",
       "kickoff_local": "2026-06-12T15:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
       "home_team": "Canada",
       "away_team": "Bosnia & Herzegovina",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -173,21 +138,16 @@
       "kickoff_utc": "2026-06-13T19:00:00+00:00",
       "kickoff_local": "2026-06-13T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
       "home_team": "Qatar",
       "away_team": "Switzerland",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -196,21 +156,16 @@
       "kickoff_utc": "2026-06-18T19:00:00+00:00",
       "kickoff_local": "2026-06-18T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "Switzerland",
       "away_team": "Bosnia & Herzegovina",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -219,21 +174,16 @@
       "kickoff_utc": "2026-06-18T22:00:00+00:00",
       "kickoff_local": "2026-06-18T15:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "Canada",
       "away_team": "Qatar",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -242,21 +192,16 @@
       "kickoff_utc": "2026-06-24T19:00:00+00:00",
       "kickoff_local": "2026-06-24T12:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "Switzerland",
       "away_team": "Canada",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -265,21 +210,16 @@
       "kickoff_utc": "2026-06-24T19:00:00+00:00",
       "kickoff_local": "2026-06-24T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
       "home_team": "Bosnia & Herzegovina",
       "away_team": "Qatar",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -288,21 +228,16 @@
       "kickoff_utc": "2026-06-13T22:00:00+00:00",
       "kickoff_local": "2026-06-13T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
       "home_team": "Brazil",
       "away_team": "Morocco",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -311,21 +246,16 @@
       "kickoff_utc": "2026-06-14T01:00:00+00:00",
       "kickoff_local": "2026-06-13T21:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
       "home_team": "Haiti",
       "away_team": "Scotland",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -334,21 +264,16 @@
       "kickoff_utc": "2026-06-19T22:00:00+00:00",
       "kickoff_local": "2026-06-19T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
       "home_team": "Scotland",
       "away_team": "Morocco",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -357,21 +282,16 @@
       "kickoff_utc": "2026-06-20T00:30:00+00:00",
       "kickoff_local": "2026-06-19T20:30:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "Brazil",
       "away_team": "Haiti",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -380,21 +300,16 @@
       "kickoff_utc": "2026-06-24T22:00:00+00:00",
       "kickoff_local": "2026-06-24T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
       "home_team": "Scotland",
       "away_team": "Brazil",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -403,21 +318,16 @@
       "kickoff_utc": "2026-06-24T22:00:00+00:00",
       "kickoff_local": "2026-06-24T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
       "home_team": "Morocco",
       "away_team": "Haiti",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -426,21 +336,16 @@
       "kickoff_utc": "2026-06-13T01:00:00+00:00",
       "kickoff_local": "2026-06-12T18:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "USA",
       "away_team": "Paraguay",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -449,21 +354,16 @@
       "kickoff_utc": "2026-06-14T04:00:00+00:00",
       "kickoff_local": "2026-06-13T21:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "Australia",
       "away_team": "Turkey",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -472,21 +372,16 @@
       "kickoff_utc": "2026-06-19T19:00:00+00:00",
       "kickoff_local": "2026-06-19T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
       "home_team": "USA",
       "away_team": "Australia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -495,21 +390,16 @@
       "kickoff_utc": "2026-06-20T03:00:00+00:00",
       "kickoff_local": "2026-06-19T20:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
       "home_team": "Turkey",
       "away_team": "Paraguay",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -518,21 +408,16 @@
       "kickoff_utc": "2026-06-26T02:00:00+00:00",
       "kickoff_local": "2026-06-25T19:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "Turkey",
       "away_team": "USA",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -541,21 +426,16 @@
       "kickoff_utc": "2026-06-26T02:00:00+00:00",
       "kickoff_local": "2026-06-25T19:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
       "home_team": "Paraguay",
       "away_team": "Australia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -564,21 +444,16 @@
       "kickoff_utc": "2026-06-14T17:00:00+00:00",
       "kickoff_local": "2026-06-14T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
       "home_team": "Germany",
       "away_team": "Curaçao",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -587,21 +462,16 @@
       "kickoff_utc": "2026-06-14T23:00:00+00:00",
       "kickoff_local": "2026-06-14T19:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "Ivory Coast",
       "away_team": "Ecuador",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -610,21 +480,16 @@
       "kickoff_utc": "2026-06-20T20:00:00+00:00",
       "kickoff_local": "2026-06-20T16:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
       "home_team": "Germany",
       "away_team": "Ivory Coast",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -633,21 +498,16 @@
       "kickoff_utc": "2026-06-21T00:00:00+00:00",
       "kickoff_local": "2026-06-20T19:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
       "home_team": "Ecuador",
       "away_team": "Curaçao",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -656,21 +516,16 @@
       "kickoff_utc": "2026-06-25T20:00:00+00:00",
       "kickoff_local": "2026-06-25T16:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "Curaçao",
       "away_team": "Ivory Coast",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -679,21 +534,16 @@
       "kickoff_utc": "2026-06-25T20:00:00+00:00",
       "kickoff_local": "2026-06-25T16:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
       "home_team": "Ecuador",
       "away_team": "Germany",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -702,21 +552,16 @@
       "kickoff_utc": "2026-06-14T20:00:00+00:00",
       "kickoff_local": "2026-06-14T15:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
       "home_team": "Netherlands",
       "away_team": "Japan",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -725,21 +570,16 @@
       "kickoff_utc": "2026-06-15T02:00:00+00:00",
       "kickoff_local": "2026-06-14T20:00:00-06:00",
       "timezone": "America/Monterrey",
-      "venue": "Estadio BBVA",
+      "venue": "Monterrey (Guadalupe)",
       "city": "Monterrey",
       "country": "Mexico",
       "home_team": "Sweden",
       "away_team": "Tunisia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -748,21 +588,16 @@
       "kickoff_utc": "2026-06-20T17:00:00+00:00",
       "kickoff_local": "2026-06-20T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
       "home_team": "Netherlands",
       "away_team": "Sweden",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -771,21 +606,16 @@
       "kickoff_utc": "2026-06-21T04:00:00+00:00",
       "kickoff_local": "2026-06-20T22:00:00-06:00",
       "timezone": "America/Monterrey",
-      "venue": "Estadio BBVA",
+      "venue": "Monterrey (Guadalupe)",
       "city": "Monterrey",
       "country": "Mexico",
       "home_team": "Tunisia",
       "away_team": "Japan",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -794,21 +624,16 @@
       "kickoff_utc": "2026-06-25T23:00:00+00:00",
       "kickoff_local": "2026-06-25T18:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
       "home_team": "Japan",
       "away_team": "Sweden",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 3,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
       "notes": ""
     },
     {
@@ -817,21 +642,16 @@
       "kickoff_utc": "2026-06-25T23:00:00+00:00",
       "kickoff_local": "2026-06-25T18:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
       "home_team": "Tunisia",
       "away_team": "Netherlands",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -840,21 +660,16 @@
       "kickoff_utc": "2026-06-15T19:00:00+00:00",
       "kickoff_local": "2026-06-15T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
       "home_team": "Belgium",
       "away_team": "Egypt",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -863,21 +678,16 @@
       "kickoff_utc": "2026-06-16T01:00:00+00:00",
       "kickoff_local": "2026-06-15T18:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "Iran",
       "away_team": "New Zealand",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -886,21 +696,16 @@
       "kickoff_utc": "2026-06-21T19:00:00+00:00",
       "kickoff_local": "2026-06-21T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
       "home_team": "Belgium",
       "away_team": "Iran",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -909,21 +714,16 @@
       "kickoff_utc": "2026-06-22T01:00:00+00:00",
       "kickoff_local": "2026-06-21T18:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "New Zealand",
       "away_team": "Egypt",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -932,21 +732,16 @@
       "kickoff_utc": "2026-06-27T03:00:00+00:00",
       "kickoff_local": "2026-06-26T20:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
       "home_team": "Egypt",
       "away_team": "Iran",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -955,21 +750,16 @@
       "kickoff_utc": "2026-06-27T03:00:00+00:00",
       "kickoff_local": "2026-06-26T20:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
       "home_team": "New Zealand",
       "away_team": "Belgium",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -978,21 +768,16 @@
       "kickoff_utc": "2026-06-15T16:00:00+00:00",
       "kickoff_local": "2026-06-15T12:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
       "home_team": "Spain",
       "away_team": "Cape Verde",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1001,21 +786,16 @@
       "kickoff_utc": "2026-06-15T22:00:00+00:00",
       "kickoff_local": "2026-06-15T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
       "home_team": "Saudi Arabia",
       "away_team": "Uruguay",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1024,21 +804,16 @@
       "kickoff_utc": "2026-06-21T16:00:00+00:00",
       "kickoff_local": "2026-06-21T12:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
       "home_team": "Spain",
       "away_team": "Saudi Arabia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1047,21 +822,16 @@
       "kickoff_utc": "2026-06-21T22:00:00+00:00",
       "kickoff_local": "2026-06-21T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
       "home_team": "Uruguay",
       "away_team": "Cape Verde",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1070,21 +840,16 @@
       "kickoff_utc": "2026-06-27T00:00:00+00:00",
       "kickoff_local": "2026-06-26T19:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
       "home_team": "Cape Verde",
       "away_team": "Saudi Arabia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1093,21 +858,16 @@
       "kickoff_utc": "2026-06-27T00:00:00+00:00",
       "kickoff_local": "2026-06-26T18:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Akron",
+      "venue": "Guadalajara (Zapopan)",
       "city": "Guadalajara",
       "country": "Mexico",
       "home_team": "Uruguay",
       "away_team": "Spain",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1116,21 +876,16 @@
       "kickoff_utc": "2026-06-16T19:00:00+00:00",
       "kickoff_local": "2026-06-16T15:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
       "home_team": "France",
       "away_team": "Senegal",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1139,21 +894,16 @@
       "kickoff_utc": "2026-06-16T22:00:00+00:00",
       "kickoff_local": "2026-06-16T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
       "home_team": "Iraq",
       "away_team": "Norway",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1162,21 +912,16 @@
       "kickoff_utc": "2026-06-22T21:00:00+00:00",
       "kickoff_local": "2026-06-22T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "France",
       "away_team": "Iraq",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1185,21 +930,16 @@
       "kickoff_utc": "2026-06-23T00:00:00+00:00",
       "kickoff_local": "2026-06-22T20:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
       "home_team": "Norway",
       "away_team": "Senegal",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
       "notes": ""
     },
     {
@@ -1208,21 +948,16 @@
       "kickoff_utc": "2026-06-26T19:00:00+00:00",
       "kickoff_local": "2026-06-26T15:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
       "home_team": "Norway",
       "away_team": "France",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1231,21 +966,16 @@
       "kickoff_utc": "2026-06-26T19:00:00+00:00",
       "kickoff_local": "2026-06-26T15:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
       "home_team": "Senegal",
       "away_team": "Iraq",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1254,21 +984,16 @@
       "kickoff_utc": "2026-06-17T01:00:00+00:00",
       "kickoff_local": "2026-06-16T20:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
       "home_team": "Argentina",
       "away_team": "Algeria",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1277,20 +1002,16 @@
       "kickoff_utc": "2026-06-17T04:00:00+00:00",
       "kickoff_local": "2026-06-16T21:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
       "home_team": "Austria",
       "away_team": "Jordan",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1299,21 +1020,16 @@
       "kickoff_utc": "2026-06-22T17:00:00+00:00",
       "kickoff_local": "2026-06-22T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
       "home_team": "Argentina",
       "away_team": "Austria",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1322,21 +1038,16 @@
       "kickoff_utc": "2026-06-23T03:00:00+00:00",
       "kickoff_local": "2026-06-22T20:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
       "home_team": "Jordan",
       "away_team": "Algeria",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1345,21 +1056,16 @@
       "kickoff_utc": "2026-06-28T02:00:00+00:00",
       "kickoff_local": "2026-06-27T21:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
       "home_team": "Algeria",
       "away_team": "Austria",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1368,21 +1074,16 @@
       "kickoff_utc": "2026-06-28T02:00:00+00:00",
       "kickoff_local": "2026-06-27T21:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
       "home_team": "Jordan",
       "away_team": "Argentina",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1391,21 +1092,16 @@
       "kickoff_utc": "2026-06-17T17:00:00+00:00",
       "kickoff_local": "2026-06-17T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
       "home_team": "Portugal",
       "away_team": "DR Congo",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1414,21 +1110,16 @@
       "kickoff_utc": "2026-06-18T02:00:00+00:00",
       "kickoff_local": "2026-06-17T20:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Banorte",
+      "venue": "Mexico City",
       "city": "Mexico City",
       "country": "Mexico",
       "home_team": "Uzbekistan",
       "away_team": "Colombia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1437,21 +1128,16 @@
       "kickoff_utc": "2026-06-23T17:00:00+00:00",
       "kickoff_local": "2026-06-23T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
       "home_team": "Portugal",
       "away_team": "Uzbekistan",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1460,21 +1146,16 @@
       "kickoff_utc": "2026-06-24T02:00:00+00:00",
       "kickoff_local": "2026-06-23T20:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Akron",
+      "venue": "Guadalajara (Zapopan)",
       "city": "Guadalajara",
       "country": "Mexico",
       "home_team": "Colombia",
       "away_team": "DR Congo",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1483,21 +1164,16 @@
       "kickoff_utc": "2026-06-27T23:30:00+00:00",
       "kickoff_local": "2026-06-27T19:30:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
       "home_team": "Colombia",
       "away_team": "Portugal",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1506,21 +1182,16 @@
       "kickoff_utc": "2026-06-27T23:30:00+00:00",
       "kickoff_local": "2026-06-27T19:30:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
       "home_team": "DR Congo",
       "away_team": "Uzbekistan",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1529,21 +1200,16 @@
       "kickoff_utc": "2026-06-17T20:00:00+00:00",
       "kickoff_local": "2026-06-17T15:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
       "home_team": "England",
       "away_team": "Croatia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "Peacock"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 0,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 1,
       "notes": ""
     },
     {
@@ -1552,21 +1218,16 @@
       "kickoff_utc": "2026-06-17T23:00:00+00:00",
       "kickoff_local": "2026-06-17T19:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
       "home_team": "Ghana",
       "away_team": "Panama",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1575,21 +1236,16 @@
       "kickoff_utc": "2026-06-23T20:00:00+00:00",
       "kickoff_local": "2026-06-23T16:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
       "home_team": "England",
       "away_team": "Ghana",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1598,21 +1254,16 @@
       "kickoff_utc": "2026-06-23T23:00:00+00:00",
       "kickoff_local": "2026-06-23T19:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
       "home_team": "Panama",
       "away_team": "Croatia",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1621,21 +1272,16 @@
       "kickoff_utc": "2026-06-27T21:00:00+00:00",
       "kickoff_local": "2026-06-27T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
       "home_team": "Panama",
       "away_team": "England",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 1,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 2,
       "notes": ""
     },
     {
@@ -1644,21 +1290,16 @@
       "kickoff_utc": "2026-06-27T21:00:00+00:00",
       "kickoff_local": "2026-06-27T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
       "home_team": "Croatia",
       "away_team": "Ghana",
       "home_label": null,
       "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Universo"
-      ],
-      "sequence": 2,
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
       "notes": ""
     },
     {
@@ -1667,22 +1308,17 @@
       "kickoff_utc": "2026-06-28T19:00:00+00:00",
       "kickoff_local": "2026-06-28T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": "South Africa",
-      "away_team": "Canada",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Runner-up Group A",
+      "away_label": "Runner-up Group B",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 74,
@@ -1690,22 +1326,17 @@
       "kickoff_utc": "2026-06-29T20:30:00+00:00",
       "kickoff_local": "2026-06-29T16:30:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
-      "home_team": "Germany",
-      "away_team": "Paraguay",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group E",
+      "away_label": "3rd place Group A/B/C/D/F",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 75,
@@ -1713,22 +1344,17 @@
       "kickoff_utc": "2026-06-30T01:00:00+00:00",
       "kickoff_local": "2026-06-29T19:00:00-06:00",
       "timezone": "America/Monterrey",
-      "venue": "Estadio BBVA",
+      "venue": "Monterrey (Guadalupe)",
       "city": "Monterrey",
       "country": "Mexico",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group F",
+      "away_label": "Runner-up Group C",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 76,
@@ -1736,22 +1362,17 @@
       "kickoff_utc": "2026-06-29T17:00:00+00:00",
       "kickoff_local": "2026-06-29T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
-      "home_team": "Brazil",
-      "away_team": "Japan",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group C",
+      "away_label": "Runner-up Group F",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 77,
@@ -1759,22 +1380,17 @@
       "kickoff_utc": "2026-06-30T21:00:00+00:00",
       "kickoff_local": "2026-06-30T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
-      "home_team": "France",
-      "away_team": "Sweden",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group I",
+      "away_label": "3rd place Group C/D/F/G/H",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 78,
@@ -1782,22 +1398,17 @@
       "kickoff_utc": "2026-06-30T17:00:00+00:00",
       "kickoff_local": "2026-06-30T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
-      "home_team": "Ivory Coast",
-      "away_team": "Norway",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Runner-up Group E",
+      "away_label": "Runner-up Group I",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 79,
@@ -1805,22 +1416,17 @@
       "kickoff_utc": "2026-07-01T01:00:00+00:00",
       "kickoff_local": "2026-06-30T19:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Banorte",
+      "venue": "Mexico City",
       "city": "Mexico City",
       "country": "Mexico",
-      "home_team": "Mexico",
-      "away_team": "Ecuador",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group A",
+      "away_label": "3rd place Group C/E/F/H/I",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 80,
@@ -1828,22 +1434,17 @@
       "kickoff_utc": "2026-07-01T16:00:00+00:00",
       "kickoff_local": "2026-07-01T12:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
-      "home_team": "England",
-      "away_team": "DR Congo",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group L",
+      "away_label": "3rd place Group E/H/I/J/K",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 81,
@@ -1851,22 +1452,17 @@
       "kickoff_utc": "2026-07-02T00:00:00+00:00",
       "kickoff_local": "2026-07-01T17:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Levi's Stadium",
+      "venue": "San Francisco Bay Area (Santa Clara)",
       "city": "San Francisco",
       "country": "USA",
-      "home_team": "USA",
-      "away_team": "Bosnia & Herzegovina",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group D",
+      "away_label": "3rd place Group B/E/F/I/J",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 82,
@@ -1874,22 +1470,17 @@
       "kickoff_utc": "2026-07-01T20:00:00+00:00",
       "kickoff_local": "2026-07-01T13:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
-      "home_team": "Belgium",
-      "away_team": "Senegal",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group G",
+      "away_label": "3rd place Group A/E/H/I/J",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 83,
@@ -1897,22 +1488,17 @@
       "kickoff_utc": "2026-07-02T23:00:00+00:00",
       "kickoff_local": "2026-07-02T19:00:00-04:00",
       "timezone": "America/Toronto",
-      "venue": "BMO Field",
+      "venue": "Toronto",
       "city": "Toronto",
       "country": "Canada",
-      "home_team": "Portugal",
-      "away_team": "Croatia",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Runner-up Group K",
+      "away_label": "Runner-up Group L",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 84,
@@ -1920,22 +1506,17 @@
       "kickoff_utc": "2026-07-02T19:00:00+00:00",
       "kickoff_local": "2026-07-02T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": "Spain",
-      "away_team": "Austria",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group H",
+      "away_label": "Runner-up Group J",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 85,
@@ -1943,22 +1524,17 @@
       "kickoff_utc": "2026-07-03T03:00:00+00:00",
       "kickoff_local": "2026-07-02T20:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
-      "home_team": "Switzerland",
-      "away_team": "Algeria",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FS1",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group B",
+      "away_label": "3rd place Group E/F/G/I/J",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 86,
@@ -1966,22 +1542,17 @@
       "kickoff_utc": "2026-07-03T22:00:00+00:00",
       "kickoff_local": "2026-07-03T18:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
-      "home_team": "Argentina",
-      "away_team": "Cape Verde",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group J",
+      "away_label": "Runner-up Group H",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 87,
@@ -1989,22 +1560,17 @@
       "kickoff_utc": "2026-07-04T01:30:00+00:00",
       "kickoff_local": "2026-07-03T20:30:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
-      "home_team": "Colombia",
-      "away_team": "Ghana",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner Group K",
+      "away_label": "3rd place Group D/E/I/J/L",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 88,
@@ -2012,22 +1578,17 @@
       "kickoff_utc": "2026-07-03T18:00:00+00:00",
       "kickoff_local": "2026-07-03T13:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
-      "home_team": "Australia",
-      "away_team": "Egypt",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Runner-up Group D",
+      "away_label": "Runner-up Group G",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 89,
@@ -2035,22 +1596,17 @@
       "kickoff_utc": "2026-07-04T21:00:00+00:00",
       "kickoff_local": "2026-07-04T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Lincoln Financial Field",
+      "venue": "Philadelphia",
       "city": "Philadelphia",
       "country": "USA",
-      "home_team": "Paraguay",
-      "away_team": "France",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 74",
+      "away_label": "Winner of Match 77",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 90,
@@ -2058,22 +1614,17 @@
       "kickoff_utc": "2026-07-04T17:00:00+00:00",
       "kickoff_local": "2026-07-04T12:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "NRG Stadium",
+      "venue": "Houston",
       "city": "Houston",
       "country": "USA",
-      "home_team": "Canada",
-      "away_team": "Morocco",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 73",
+      "away_label": "Winner of Match 75",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 91,
@@ -2081,22 +1632,17 @@
       "kickoff_utc": "2026-07-05T20:00:00+00:00",
       "kickoff_local": "2026-07-05T16:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
-      "home_team": "Brazil",
-      "away_team": "Norway",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 76",
+      "away_label": "Winner of Match 78",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 92,
@@ -2104,22 +1650,17 @@
       "kickoff_utc": "2026-07-06T00:00:00+00:00",
       "kickoff_local": "2026-07-05T18:00:00-06:00",
       "timezone": "America/Mexico_City",
-      "venue": "Estadio Banorte",
+      "venue": "Mexico City",
       "city": "Mexico City",
       "country": "Mexico",
-      "home_team": "Mexico",
-      "away_team": "England",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 79",
+      "away_label": "Winner of Match 80",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 93,
@@ -2127,22 +1668,17 @@
       "kickoff_utc": "2026-07-06T19:00:00+00:00",
       "kickoff_local": "2026-07-06T14:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
-      "home_team": "Portugal",
-      "away_team": "Spain",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 2,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 83",
+      "away_label": "Winner of Match 84",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
+      "notes": ""
     },
     {
       "match_id": 94,
@@ -2150,22 +1686,17 @@
       "kickoff_utc": "2026-07-07T00:00:00+00:00",
       "kickoff_local": "2026-07-06T17:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "Lumen Field",
+      "venue": "Seattle",
       "city": "Seattle",
       "country": "USA",
-      "home_team": "USA",
-      "away_team": "Belgium",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 81",
+      "away_label": "Winner of Match 82",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 95,
@@ -2173,22 +1704,17 @@
       "kickoff_utc": "2026-07-07T16:00:00+00:00",
       "kickoff_local": "2026-07-07T12:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
-      "home_team": "Argentina",
-      "away_team": "Egypt",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 2,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 86",
+      "away_label": "Winner of Match 88",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
+      "notes": ""
     },
     {
       "match_id": 96,
@@ -2196,22 +1722,17 @@
       "kickoff_utc": "2026-07-07T20:00:00+00:00",
       "kickoff_local": "2026-07-07T13:00:00-07:00",
       "timezone": "America/Vancouver",
-      "venue": "BC Place",
+      "venue": "Vancouver",
       "city": "Vancouver",
       "country": "Canada",
-      "home_team": "Switzerland",
-      "away_team": "Colombia",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 85",
+      "away_label": "Winner of Match 87",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 97,
@@ -2219,22 +1740,17 @@
       "kickoff_utc": "2026-07-09T20:00:00+00:00",
       "kickoff_local": "2026-07-09T16:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Gillette Stadium",
+      "venue": "Boston (Foxborough)",
       "city": "Boston",
       "country": "USA",
-      "home_team": "France",
-      "away_team": "Morocco",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 2,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 89",
+      "away_label": "Winner of Match 90",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
+      "notes": ""
     },
     {
       "match_id": 98,
@@ -2242,22 +1758,17 @@
       "kickoff_utc": "2026-07-10T19:00:00+00:00",
       "kickoff_local": "2026-07-10T12:00:00-07:00",
       "timezone": "America/Los_Angeles",
-      "venue": "SoFi Stadium",
+      "venue": "Los Angeles (Inglewood)",
       "city": "Los Angeles",
       "country": "USA",
-      "home_team": "Spain",
-      "away_team": "Belgium",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 2,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 93",
+      "away_label": "Winner of Match 94",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 3,
+      "notes": ""
     },
     {
       "match_id": 99,
@@ -2265,22 +1776,17 @@
       "kickoff_utc": "2026-07-11T21:00:00+00:00",
       "kickoff_local": "2026-07-11T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
-      "home_team": "Norway",
-      "away_team": "England",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 91",
+      "away_label": "Winner of Match 92",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 100,
@@ -2288,22 +1794,17 @@
       "kickoff_utc": "2026-07-12T01:00:00+00:00",
       "kickoff_local": "2026-07-11T20:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "GEHA Field at Arrowhead Stadium",
+      "venue": "Kansas City",
       "city": "Kansas City",
       "country": "USA",
-      "home_team": "Argentina",
-      "away_team": "Switzerland",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 95",
+      "away_label": "Winner of Match 96",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 101,
@@ -2311,22 +1812,17 @@
       "kickoff_utc": "2026-07-14T19:00:00+00:00",
       "kickoff_local": "2026-07-14T14:00:00-05:00",
       "timezone": "America/Chicago",
-      "venue": "AT&T Stadium",
+      "venue": "Dallas (Arlington)",
       "city": "Dallas",
       "country": "USA",
-      "home_team": "France",
-      "away_team": "Spain",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 97",
+      "away_label": "Winner of Match 98",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 102,
@@ -2334,22 +1830,17 @@
       "kickoff_utc": "2026-07-15T19:00:00+00:00",
       "kickoff_local": "2026-07-15T15:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Mercedes-Benz Stadium",
+      "venue": "Atlanta",
       "city": "Atlanta",
       "country": "USA",
-      "home_team": "England",
-      "away_team": "Argentina",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 99",
+      "away_label": "Winner of Match 100",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 103,
@@ -2357,22 +1848,17 @@
       "kickoff_utc": "2026-07-18T21:00:00+00:00",
       "kickoff_local": "2026-07-18T17:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "Hard Rock Stadium",
+      "venue": "Miami (Miami Gardens)",
       "city": "Miami",
       "country": "USA",
-      "home_team": "France",
-      "away_team": "England",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Loser of Match 101",
+      "away_label": "Loser of Match 102",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     },
     {
       "match_id": 104,
@@ -2380,22 +1866,17 @@
       "kickoff_utc": "2026-07-19T19:00:00+00:00",
       "kickoff_local": "2026-07-19T15:00:00-04:00",
       "timezone": "America/New_York",
-      "venue": "MetLife Stadium",
+      "venue": "New York/New Jersey (East Rutherford)",
       "city": "New York",
       "country": "USA",
-      "home_team": "Spain",
-      "away_team": "Argentina",
-      "home_label": null,
-      "away_label": null,
-      "us_english_tv": [
-        "FOX",
-        "FOX One"
-      ],
-      "us_spanish_tv": [
-        "Telemundo"
-      ],
-      "sequence": 3,
-      "notes": "Knockout team(s) resolved from broadcaster listings."
+      "home_team": null,
+      "away_team": null,
+      "home_label": "Winner of Match 101",
+      "away_label": "Winner of Match 102",
+      "us_english_tv": [],
+      "us_spanish_tv": [],
+      "sequence": 4,
+      "notes": ""
     }
   ]
 }
